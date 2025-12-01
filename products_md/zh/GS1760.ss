@@ -1,0 +1,83 @@
+[![logo9](https://www.gaoshenghk.com/uploads/logo9.png)](https://www.gaoshenghk.com/)
+
+[![Ergonomic seat height adjustable office chair task chair Featured Image](https://www.gaoshenghk.com/uploads/Ergonomic-seat-height-adjustable-office-chair-task-chair-11.jpg)](https://www.gaoshenghk.com/uploads/Ergonomic-seat-height-adjustable-office-chair-task-chair-11.jpg)
+
+## Ergonomic seat height adjustable office chair task chair
+
+## Product Detail
+
+## Product Tags
+
+![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
+
+![Ergonomic seat height adjustable office chair task chair (2)](https://www.gaoshenghk.com/uploads/Ergonomic-seat-height-adjustable-office-chair-task-chair-2.jpg)
+
+![detail1 (1)](https://www.gaoshenghk.com/uploads/detail1-1.jpg)
+
+![detail1 (2)](https://www.gaoshenghk.com/uploads/detail1-2.jpg)
+
+![detail1 (3)](https://www.gaoshenghk.com/uploads/detail1-3.jpg)
+****
+![detail2 (2)](https://www.gaoshenghk.com/uploads/detail2-2.jpg)
+
+![detail2 (3)](https://www.gaoshenghk.com/uploads/detail2-3.jpg)
+
+![detail1_6](https://www.gaoshenghk.com/uploads/detail1_6.jpg)
+
+![detail1_7](https://www.gaoshenghk.com/uploads/detail1_7.jpg)
+
+![detail1_8](https://www.gaoshenghk.com/uploads/detail1_81.jpg)
+
+![detail1_9](https://www.gaoshenghk.com/uploads/detail1_9.jpg)
+
+![detail1_10](https://www.gaoshenghk.com/uploads/detail1_10.jpg)
+
+![detail2 (1)](https://www.gaoshenghk.com/uploads/detail2-1.jpg)
+
+![detail2 (4)](https://www.gaoshenghk.com/uploads/detail2-4.jpg)
+
+![detail1_13](https://www.gaoshenghk.com/uploads/detail1_13.jpg)
+
+![detail1_14](https://www.gaoshenghk.com/uploads/detail1_141.jpg)
+
+![detail1_16](https://www.gaoshenghk.com/uploads/detail1_161.jpg)
+
+![detail1_15](https://www.gaoshenghk.com/uploads/detail1_15.jpg)
+
+![detail1_23](https://www.gaoshenghk.com/uploads/detail1_23.jpg)
+
+![detail1_22](https://www.gaoshenghk.com/uploads/detail1_22.jpg)
+
+![detail1_21](https://www.gaoshenghk.com/uploads/detail1_21.jpg)
+
+![detail1_20](https://www.gaoshenghk.com/uploads/detail1_20.jpg)
+
+![detail1_17](https://www.gaoshenghk.com/uploads/detail1_17.jpg)
+
+![detail1_18](https://www.gaoshenghk.com/uploads/detail1_18.jpg)
+
+![detail1_19](https://www.gaoshenghk.com/uploads/detail1_19.jpg)
+
+![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+
+Founded in 1988, the company has more than 30 years of experience in the production of office chairs and has developed into one of the leading enterprises in the industry. We have injection mold workshop, hardware workshop, chair processing workshop, wood workshop, with strong independent development ability, we can research and make samples according to customers' samples and specific drawings, All of our chairs are produced in accordance with American BIFMA,Greenguard,SGS BS EN1335 standards for school writing board chairs
+
+Our company is located in Xi 'an Industrial Zone, Xiqiao Town, Nanhai District, Foshan City, Guangdong Province, China. welcome The company covers an area of 110,000 square meters and employs 600 people. The factory has passed ISO9001:2000&ISO14001:2004 certification. Products are exported to the United States, Japan, Britain, Australia, Germany, France, Italy, the Netherlands, the Middle East, Sweden, Denmark, Canada, the Middle East and Southeast Asia and other countries and regions
+
+* * *
+
++   **Previous:** [G1830 school study college student training chair with writing table](https://www.gaoshenghk.com/g1830-school-study-college-student-training-chair-with-writing-table-product/)
++   **Next:** [Steel frame inside leather and fabric executive office chair](https://www.gaoshenghk.com/steel-frame-inside-leather-and-fabric-executive-office-chair-product/)
+
+* * *
+
++   [Comfy Office Chair](https://www.gaoshenghk.com/comfy-office-chair/)
++   [Computer Chair](https://www.gaoshenghk.com/computer-chair/)
++   [Ergonomic Office Chair](https://www.gaoshenghk.com/ergonomic-office-chair/)
++   [Home Office Chair](https://www.gaoshenghk.com/home-office-chair/)
++   [Office Chair Modern](https://www.gaoshenghk.com/office-chair-modern/)
++   [Office Chair With Wheels](https://www.gaoshenghk.com/office-chair-with-wheels/)
++   [Office Furniture](https://www.gaoshenghk.com/office-furniture/)
++   [Operator Chair](https://www.gaoshenghk.com/operator-chair/)
++   [Staff Chair](https://www.gaoshenghk.com/staff-chair/)
++   [Swivel Chair](https://www.gaoshenghk.com/swivel-chair/)

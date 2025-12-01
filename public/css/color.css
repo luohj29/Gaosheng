@@ -1,0 +1,16 @@
+.bg-color {
+  background-color: #00919E;
+}
+
+.border-color {
+  border-color: #00919E;
+}
+
+.text-color {
+  transition: color 200ms ease;
+}
+
+.group:hover .text-color,
+.text-color:hover {
+  color: #00919E;
+}

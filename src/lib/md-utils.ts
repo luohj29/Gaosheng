@@ -14,11 +14,11 @@ export type NewsPost = {
 const postsDirectory = path.join(process.cwd(), 'news_md');
 
 export async function getNewsPosts(locale: string): Promise<NewsPost[]> {
-  // Fallback to 'en' if locale directory doesn't exist, or handle error
-  const localeDir = path.join(postsDirectory, locale);
+  // Always use 'en' locale for markdown files
+  const localeDir = path.join(postsDirectory, 'en');
   
   if (!fs.existsSync(localeDir)) {
-    console.warn(`Directory not found for locale: ${locale}`);
+    console.warn(`Directory not found for locale: en`);
     return [];
   }
 
@@ -47,7 +47,8 @@ export async function getNewsPosts(locale: string): Promise<NewsPost[]> {
 }
 
 export async function getNewsPost(locale: string, slug: string): Promise<NewsPost | null> {
-  const fullPath = path.join(postsDirectory, locale, `${slug}.md`);
+  // Always use 'en' locale for markdown files
+  const fullPath = path.join(postsDirectory, 'en', `${slug}.md`);
   
   if (!fs.existsSync(fullPath)) {
     return null;

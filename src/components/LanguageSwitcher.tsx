@@ -7,10 +7,14 @@ import { useEffect, useRef, useState } from "react";
 const FLAG_MAP: Record<string, string> = {
   en: "🇺🇸",
   zh: "🇨🇳",
-  ja: "🇯🇵"
+  ja: "🇯🇵",
+  fr: "🇫🇷",
+  de: "🇩🇪",
+  es: "🇪🇸",
+  ar: "🇸🇦"
 };
 
-const SUPPORTED_LOCALES = ["en", "zh", "ja"];
+const SUPPORTED_LOCALES = ["en", "zh", "fr", "de", "es", "ja", "ar"];
 
 export default function LanguageSwitcher({ locale }: { locale: string }) {
   const pathname = usePathname(); //获取当前链接
@@ -97,7 +101,7 @@ export default function LanguageSwitcher({ locale }: { locale: string }) {
         // 防止菜单自身的点击事件被冒泡到 document（触发外部关闭）
         onClick={(e) => e.stopPropagation()}
       >
-        <div className="p-2 flex flex-col gap-1 min-w-[96px]">
+        <div className="p-2 flex flex-col gap-1 min-w-[120px] max-h-[320px] overflow-y-auto">
           {SUPPORTED_LOCALES.map((lng) => {
             const isCurrent = lng === locale;
             // 如果是当前语言，显示不可点击状态

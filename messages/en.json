@@ -1,4 +1,9 @@
 {
+  "Metadata": {
+    "siteName": "Gaosheng International",
+    "title": "Office Chair, Student Chair, Node Chair, Business Chair - Gaosheng",
+    "description": "Hong Kong Gao Sheng International Co., Ltd. - Modern office furniture solutions with 35 years of experience. Premium ergonomic office chairs, task chairs, and office desks."
+  },
   "Navigation": {
     "brand": "Gaosheng Atelier",
     "menu": {
@@ -13,9 +18,21 @@
   },
   "Footer": {
     "tagline": "Get In Touch",
+    "phoneLabel": "Phone",
+    "addressLabel": "Office Address",
+    "emailLabel": "Email",
     "address": "Room 4, 16/f, Ho King Commercial Centre, 2-16 Fayuen Street, Mongkok Kowloon, Hong Kong",
     "contactEmail": "officefurniture1@gaoshenghk.com",
     "contactPhone": "00852-53008243",
+    "followUs": "Follow Us",
+    "scanQR": "Scan QR Code",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com",
+      "youtube": "https://www.youtube.com",
+      "twitter": "https://www.twitter.com",
+      "instagram": "https://www.instagram.com",
+      "linkedin": "https://www.linkedin.com"
+    },
     "links": {
       "privacy": "Privacy",
       "terms": "Terms",
@@ -136,7 +153,7 @@
         "title": "Steel Frame Inside Leather and Fabric Executive Office Chair",
         "description": "Back: 55D injection foam with 12mm solid steel inside, looks nice and durable. Seat cushion: High density injection foam covered by fabric."
       },
-      "GS2042B": {
+      "GS2042": {
         "title": "Mesh Office Chair Task Chair",
         "description": "Breathable mesh design provides excellent comfort and support. Adjustable height and armrests, suitable for long hours of work."
       }
@@ -391,6 +408,9 @@
       "message": "Project brief",
       "messagePlaceholder": "Share budget, timeline, or space type..."
     },
-    "formSubmit": "Send request"
+    "formSubmit": "Send request",
+    "formSubmitting": "Sending...",
+    "formSuccess": "Message sent! We will respond within one business day.",
+    "formError": "Failed to send. Please try again later."
   }
 }

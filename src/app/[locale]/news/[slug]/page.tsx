@@ -40,34 +40,6 @@ export default async function NewsPostPage(props: Props) {
       </div>
 
       <article>
-        {/* Header */}
-        <header className="mb-10 space-y-6 text-center">
-          <div className="text-sm font-semibold uppercase tracking-widest text-gray-400">
-            {post.date}
-          </div>
-          <h1 className="text-3xl md:text-5xl font-bold text-gray-900 leading-tight">
-            {post.title}
-          </h1>
-          {post.description && (
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              {post.description}
-            </p>
-          )}
-        </header>
-
-        {/* Featured Image */}
-        {post.image && (
-          <div className="relative w-full h-[400px] md:h-[500px] mb-12 rounded-2xl overflow-hidden shadow-lg">
-            <Image
-              src={post.image}
-              alt={post.title}
-              fill
-              className="object-cover"
-              priority
-            />
-          </div>
-        )}
-
         {/* Content */}
         <div className="prose prose-lg prose-gray mx-auto max-w-none prose-headings:font-bold prose-img:rounded-xl prose-img:shadow-md">
           <ReactMarkdown remarkPlugins={[remarkGfm]}>

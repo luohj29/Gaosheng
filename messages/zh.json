@@ -1,4 +1,9 @@
 {
+  "Metadata": {
+    "siteName": "高晟国际",
+    "title": "办公椅、学生椅、节点椅、商务椅 - 高晟",
+    "description": "香港高晟国际有限公司 - 拥有35年经验的现代办公家具解决方案。优质人体工学办公椅、任务椅和办公桌。"
+  },
   "Navigation": {
     "brand": "高晟陈设",
     "menu": {
@@ -12,16 +17,33 @@
     "ctaSecondary": "下载电子画册"
   },
   "Footer": {
-    "tagline": "以当代美学打造持久的生活场景",
-    "address": "上海市静安区静远路999号",
-    "contactEmail": "hello@gaosheng.studio",
-    "contactPhone": "+86 21 5555 1234",
+    "tagline": "联系我们",
+    "phoneLabel": "电话",
+    "addressLabel": "办公地址",
+    "emailLabel": "邮箱",
+    "address": "Room 4, 16/f, Ho King Commercial Centre, 2-16 Fayuen Street, Mongkok Kowloon, Hong Kong",
+    "contactEmail": "officefurniture1@gaoshenghk.com",
+    "contactPhone": "00852-53008243",
+    "followUs": "关注我们",
+    "scanQR": "扫描二维码",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com",
+      "youtube": "https://www.youtube.com",
+      "twitter": "https://www.twitter.com",
+      "instagram": "https://www.instagram.com",
+      "linkedin": "https://www.linkedin.com"
+    },
     "links": {
       "privacy": "隐私政策",
       "terms": "使用条款",
       "careers": "加入我们"
     },
-    "copyright": "版权所有。"
+    "copyright": "版权所有。",
+    "Products":{
+      "title": "产品",
+      "description": "产品",
+      "image": "/images/products/product1.jpg"
+    }
   },
   "HomePage": {
     "eyebrow": "沉浸式家具陈列",
@@ -79,61 +101,61 @@
       "profile": {
         "title": "公司简介",
         "description": "香港高晟国际有限公司是一家集研发、生产、销售于一体的现代办公家具解决方案企业。公司前身为高晟办公家具有限公司，成立于1988年，拥有35年的悠久历史...",
-        "videoUrl": "youtu.be/abcsdda"
+        "videoUrl": "https://youtu.be/xnje9_VEaWI"
       },
       "products": {
         "title": "产品介绍",
         "description": "产品已通过美国ANSI/BIFMA5.1、欧洲EN1335和日本JIS测试标准，符合QB/T 2280-2007办公椅行业标准。产品主要用于大型品牌连锁超市、办公室、酒店、工厂、医院、学校...",
-        "videoUrl": "youtu.be/abcsdda"
+        "videoUrl": "https://youtu.be/xnje9_VEaWI"
       },
       "quality": {
         "title": "质量控制",
         "description": "作为专业的升降座椅制造商，高晟（诺高）一直非常重视环保。在生产过程中，高晟坚持GRS材料标准，使用可回收材料进行生产...",
-        "videoUrl": "youtu.be/abcsdda"
+        "videoUrl": "https://youtu.be/xnje9_VEaWI"
       }
     },
     "productsShowHeading": "新品展示",
     "productsShowDescription": "探索我们最新的办公家具产品系列，每一件都经过精心设计，满足现代办公需求。",
     "productsShowItems": {
-      "g1830": {
+      "G1830": {
         "title": "G1830 学校学习培训椅",
         "description": "人体工学设计，鲸鱼造型，带折叠写字板，升降椅，4腿椅，吧椅和悬臂椅。"
       },
-      "ergonomic": {
+      "GS-G1760": {
         "title": "人体工学可调高度办公椅",
         "description": "低靠背椅，PP外壳（米色和黑色可选）覆盖织物。座椅：50密度模压泡沫，12mm厚胶合板面板。"
       },
-      "luxury": {
+      "GS-G1900": {
         "title": "豪华现代设计带轮皮革家庭办公椅 GS-G1900",
         "description": "100%高品质承诺！研发部门采用一体成型钢架代替传统木架，使GS1900更加稳定。"
       },
-      "original": {
+      "GT1": {
         "title": "原创设计人体工学高靠背办公椅",
         "description": "GT系列：原创设计。高晟：30多年经验制造商。TOYO：60多年经验制造商。GT1系列：有中靠背型和织物型。"
       },
-      "ergonomic2d": {
+      "GT2": {
+        "title": "高级行政办公椅",
+        "description": "豪华皮革材质，人体工学设计，提供卓越的舒适性和专业外观。适合高级管理层使用。"
+      },
+      "GT3": {
         "title": "人体工学2D扶手倾斜锁定办公椅",
         "description": "特点：GT3A-自重倾斜机构。应用：办公环境、酒店接待室、客房、学校教育空间。"
       },
-      "cantilever": {
+      "GS-G2041B": {
         "title": "悬臂底座可堆叠培训椅",
         "description": "设计理念：线条简洁整齐，实用且不占空间。易于移动，自由组合，有限空间也能有良好体验。"
       },
-      "folding": {
+      "GS1795DW": {
         "title": "折叠座椅可堆叠学校培训椅",
         "description": "办公椅带轮，办公学校网眼折叠椅。GS1795DW培训椅：多种功能：可折叠、灵活，流线型设计。"
       },
-      "steel": {
+      "GS1805": {
         "title": "钢架内衬皮革和织物行政办公椅",
         "description": "靠背：55D注塑泡沫，内衬12mm实心钢，美观耐用。座椅垫：高密度注塑泡沫，覆盖织物。"
       },
-      "mesh": {
+      "GS2042": {
         "title": "网眼办公椅任务椅",
         "description": "透气网眼设计，提供卓越的舒适性和支撑。可调节高度和扶手，适合长时间工作。"
-      },
-      "executive": {
-        "title": "高级行政办公椅",
-        "description": "豪华皮革材质，人体工学设计，提供卓越的舒适性和专业外观。适合高级管理层使用。"
       }
     },
     "followUsHeading": "关注我们",
@@ -210,14 +232,19 @@
   },
   "AboutPage": {
     "hero": {
-      "title": "匠心筑梦，质造未来",
-      "subtitle": "自1988年以来，我们始终致力于通过定制家具解决方案重新定义办公与生活空间。",
-      "image": "/images/home_first.png"
+      "title": "公司简介",
+      "subtitle": "自1988年以来，我们一直通过定制家具解决方案重新定义办公和生活环境。",
+      "image": "/images/about/factory.png"
     },
     "intro": {
       "title": "关于我们",
-      "description": "香港高晟国际有限公司是一家集研发、生产、销售于一体的现代化办公家具企业。公司前身为成立于1988年的高晟办公家具有限公司，拥有超过35年的深厚积淀。",
+      "description": "香港高晟国际有限公司是一家集研发、生产、销售于一体的现代办公家具解决方案企业。公司前身为高晟办公家具有限公司，成立于1988年，拥有35年的悠久历史。它是中国最早和最大的办公椅和办公桌制造商之一。公司主要产品以办公椅、办公桌为核心产品。产品已通过美国ANSI/BIFMA5.1、欧洲EN1335和日本JIS测试标准，符合QB/T 2280-2007办公椅行业标准。产品主要用于大型品牌连锁超市、办公室、酒店、工厂、医院、学校、别墅、家庭等场所。作为国内行业的领先企业，高晟占地100多亩，拥有4万平方米的大型生产车间和600多名员工，拥有大量专业设计师、制造者、营销人才和管理者。",
       "image": "/images/home_second.png"
+    },
+    "certification":{
+      "title": "认证",
+      "description": "截至目前，公司已通过ISO9001国际质量体系认证、ISO14001环境管理体系认证、中国环境标志产品认证、中国三环境标志产品认证、CQC中国环保产品认证等行业权威认证。获得了'守合同重信用企业'、'中国绿色环保产品'、'中国名优产品'、'中国国际贸易促进委员会会员单位'等多项称号和荣誉。",
+      "image": "/images/about/certificate.png"
     },
     "stats": {
       "founded": "1988",
@@ -267,6 +294,11 @@
         "c3": "中国环境标志产品认证",
         "c4": "CQC 环保产品认证"
       }
+    },
+    "globalService": {
+      "title": "全球服务能力",
+      "description": "目前，公司的市场遍布欧洲、北美、东南亚、中东等国家和地区，涉及100多个国家。并将与华为技术有限公司、丹纳赫集团、蔚蓝动力、宝钢、三星电子、希尔顿汉普顿酒店、墨尔本urbanest学生公寓、迪拜土地局、东风雷诺、美图公司、雅培制药、中车集团等知名品牌长期合作。为了保持质量和服务，我们在大多数当地国家设立了本地服务网点，始终坚定坚持用户体验满意度第一、销售第二的工作作风。",
+      "image": "/images/about/global_service.jpg"
     }
   },
   "ProductPage": {
@@ -376,6 +408,9 @@
       "message": "项目需求",
       "messagePlaceholder": "预算、交付时间或空间类型…"
     },
-    "formSubmit": "提交需求"
+    "formSubmit": "提交需求",
+    "formSubmitting": "发送中...",
+    "formSuccess": "消息已发送！我们会在一个工作日内回复您。",
+    "formError": "发送失败，请稍后重试。"
   }
 }

@@ -31,10 +31,11 @@ export type Product = {
 const productsDirectory = path.join(process.cwd(), 'products_md');
 
 export async function getProducts(locale: string): Promise<Product[]> {
-  const localeDir = path.join(productsDirectory, locale);
+  // Always use 'en' locale for markdown files
+  const localeDir = path.join(productsDirectory, 'en');
   
   if (!fs.existsSync(localeDir)) {
-    console.warn(`Directory not found for locale: ${locale}`);
+    console.warn(`Directory not found for locale: en`);
     return [];
   }
 
@@ -66,7 +67,8 @@ export async function getProducts(locale: string): Promise<Product[]> {
 }
 
 export async function getProduct(locale: string, slug: string): Promise<Product | null> {
-  const fullPath = path.join(productsDirectory, locale, `${slug}.md`);
+  // Always use 'en' locale for markdown files
+  const fullPath = path.join(productsDirectory, 'en', `${slug}.md`);
   
   if (!fs.existsSync(fullPath)) {
     return null;

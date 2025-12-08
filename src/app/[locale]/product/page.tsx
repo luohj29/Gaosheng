@@ -32,13 +32,13 @@ export default async function ProductPage(props: Props) {
               href={`/${locale}/product/${product.slug}`}
               className="group flex flex-col gap-4 rounded-3xl border border-black/10 bg-white p-6 shadow-sm transition-all hover:shadow-xl hover:-translate-y-1"
             >
-              <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl bg-gray-100">
+              <div className="relative aspect-[4/3] w-full overflow-hidden rounded-2xl bg-white">
                 {product.images && product.images.length > 0 ? (
                   <Image
                     src={product.images[0]}
                     alt={product.title}
                     fill
-                    className="object-cover transition-transform duration-500 group-hover:scale-105"
+                    className="object-contain transition-transform duration-500 group-hover:scale-105"
                   />
                 ) : (
                   <div className="flex h-full w-full items-center justify-center text-gray-400">

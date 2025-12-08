@@ -6,6 +6,18 @@ type Props = {
   params: Promise<{ locale: string }>;
 };
 
+export function generateStaticParams() {
+  return [
+    { locale: "en" },
+    { locale: "zh" },
+    { locale: "fr" },
+    { locale: "de" },
+    { locale: "es" },
+    { locale: "ja" },
+    { locale: "ar" },
+  ];
+}
+
 export default async function AboutUs(props: Props) {
   const params = await props.params;
   const { locale } = params;
@@ -18,9 +30,9 @@ export default async function AboutUs(props: Props) {
   const certKeys = ['c1', 'c2', 'c3', 'c4'];
 
   return (
-    <div className="mx-auto flex max-w-6xl flex-col gap-16 px-6 py-16">
+    <div className="mx-auto flex max-w-6xl flex-col gap-16 px-6 py-16" >
       {/* Hero Section */}
-      <section className="relative w-full h-[60vh] min-h-[500px] flex items-center justify-center text-white overflow-hidden rounded-3xl shadow-2xl">
+      <section className="relative w-full h-[400px] flex items-center justify-center text-white overflow-hidden rounded-3xl shadow-2xl">
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <Image

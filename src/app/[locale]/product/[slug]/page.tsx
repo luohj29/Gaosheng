@@ -78,7 +78,7 @@ export default async function ProductDetailPage(props: Props) {
   const galleryImages = Array.from(new Set([...(product.images ?? []), ...variantImages]));
 
   return (
-    <div className="mx-auto max-w-7xl px-20 py-12 md:py-20">
+    <div className="mx-auto max-w-7xl px-20 py-12 md:py-5">
       {/* Breadcrumb */}
       <nav className="mb-8 flex items-center gap-2 text-sm text-gray-500">
         <Link href={`/${locale}/product`} className="hover:text-gray-900">
@@ -116,10 +116,10 @@ export default async function ProductDetailPage(props: Props) {
               <h3 className="mb-4 text-sm font-semibold uppercase tracking-wider text-gray-900">
                 Key Features
               </h3>
-              <ul className="space-y-2">
+              <ul className="space-y-1">
                 {product.features.map((feature, idx) => (
                   <li key={idx} className="flex items-start gap-2 text-sm text-gray-700">
-                    <span className="mt-1.5 block h-1.5 w-1.5 rounded-full bg-blue-500" />
+                    <span className="mt-1.5 block h-1 w-1 rounded-full bg-blue-500" />
                     {feature}
                   </li>
                 ))}
@@ -159,10 +159,17 @@ export default async function ProductDetailPage(props: Props) {
           </div>
         )}
         {/* Main Content (Markdown) */}
-        <div className="prose prose-lg prose-gray max-w-none w-full prose-headings:font-bold prose-img:rounded-2xl prose-img:shadow-lg prose-img:max-w-7xl prose-img:mx-auto prose-figure:w-full">
+        <div className="prose prose-lg prose-gray max-w-none w-full prose-headings:font-bold prose-img:rounded-2xl prose-img:shadow-lg prose-img:max-w-6xl prose-img:mx-auto prose-figure:w-full">
           <ReactMarkdown 
             remarkPlugins={[remarkGfm]}
             rehypePlugins={[rehypeRaw]}
+            components={{
+              p: ({ children }) => (
+                <div className="rounded-2xl bg-gray-50 p-6 my-4 text-gray-700 leading-relaxed">
+                  {children}
+                </div>
+              ),
+            }}
           >
             {processedContent}
           </ReactMarkdown>

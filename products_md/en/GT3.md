@@ -2,11 +2,11 @@
 title: "GT3: Ergonomic 2D armrest tilt and lock office chair task chair"
 description: "GT3 series is the collection created by Nuogo R&D team in cooperation with Japanese design team TOYO TAPER,which is the extension and supplement for office chair GT1 and GT2.GT3A continue to use the same mechanism of self weight tilt mechanism with GT2A.which is based on the weight of the user when the back of the body’s gravity back,to provide the most comfortable support.It’s refreshing to the new collection with the plastic shell and perforated backrest.The chair can be more easily oriented to a wider range of countries and regions. With high cost effective,simple fashion and elegant."
 images:
-  - "/images/GT3/image.png"
+  - "/images/GT3/image.webp"
 variants:
-  - "/images/GT3/2.png"
-  - "/images/GT3/3.png"
-  - "/images/GT3/20221212162356.png"
+  - "/images/GT3/2.webp"
+  - "/images/GT3/3.webp"
+  - "/images/GT3/20221212162356.webp"
   - "/images/GT3/gt3_B侧面 拷贝.jpg"
   - "/images/GT3/gt3_B_小图.jpg"
   - "/images/GT3/gt3_B正面 拷贝.jpg"
@@ -17,7 +17,7 @@ variants:
   - "/images/GT3/GT3A_.jpg"
   - "/images/GT3/GT3A黑无扶手.jpg"
   - "/images/GT3/GT3A All black.jpg"
-  - "/images/GT3/GT3A office chair project show.png"
+  - "/images/GT3/GT3A office chair project show.webp"
 videoUrl: "https://www.gaoshenghk.com/uploads/GT3A.mp4"
 category: "General/Office"
 features:

@@ -234,17 +234,17 @@
     "hero": {
       "title": "公司简介",
       "subtitle": "自1988年以来，我们一直通过定制家具解决方案重新定义办公和生活环境。",
-      "image": "/images/about/factory.png"
+      "image": "/images/about/factory.webp"
     },
     "intro": {
       "title": "关于我们",
       "description": "香港高晟国际有限公司是一家集研发、生产、销售于一体的现代办公家具解决方案企业。公司前身为高晟办公家具有限公司，成立于1988年，拥有35年的悠久历史。它是中国最早和最大的办公椅和办公桌制造商之一。公司主要产品以办公椅、办公桌为核心产品。产品已通过美国ANSI/BIFMA5.1、欧洲EN1335和日本JIS测试标准，符合QB/T 2280-2007办公椅行业标准。产品主要用于大型品牌连锁超市、办公室、酒店、工厂、医院、学校、别墅、家庭等场所。作为国内行业的领先企业，高晟占地100多亩，拥有4万平方米的大型生产车间和600多名员工，拥有大量专业设计师、制造者、营销人才和管理者。",
-      "image": "/images/home_second.png"
+      "image": "/images/home_second.webp"
     },
     "certification":{
       "title": "认证",
       "description": "截至目前，公司已通过ISO9001国际质量体系认证、ISO14001环境管理体系认证、中国环境标志产品认证、中国三环境标志产品认证、CQC中国环保产品认证等行业权威认证。获得了'守合同重信用企业'、'中国绿色环保产品'、'中国名优产品'、'中国国际贸易促进委员会会员单位'等多项称号和荣誉。",
-      "image": "/images/about/certificate.png"
+      "image": "/images/about/certificate.webp"
     },
     "stats": {
       "founded": "1988",
@@ -259,7 +259,7 @@
     "vision": {
       "title": "我们的愿景",
       "description": "我们创造的不仅仅是家具，更是无限可能。我们的使命是打造能够激发潜能的空间，将创新理念与传统匠心完美融合。",
-      "image": "/images/home_third.png"
+      "image": "/images/home_third.webp"
     },
     "timeline": {
       "title": "发展历程",

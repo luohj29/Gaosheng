@@ -20,7 +20,7 @@ export async function generateMetadata({params}: {params: Promise<{locale: strin
     description: t('description'),
     icons: {
       icon: [
-        { url: '/favicon.png', type: 'image/png' },
+        { url: '/favicon.ico', type: 'image/x-icon' },
       ],
     },
     openGraph: {

@@ -2,7 +2,7 @@
 title: "GT2: an ergonomic office chair"
 description: "GT2A is an ergonomic office chair, task chair for workers and staff work chair, pass USA BIFMA Certificate, it’s self weight tilt mechanism. With 2D armrest and tilt and lock function."
 images:
-  - "/images/GT2/image.png"
+  - "/images/GT2/image.webp"
 variants:
   - "/images/GT2/t2_b正面.jpg"
   - "/images/GT2/gt2_c正面.jpg"

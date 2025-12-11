@@ -234,17 +234,17 @@
     "hero": {
       "title": "Profil de l'entreprise",
       "subtitle": "Depuis 1988, nous redéfinissons les environnements de travail et de vie avec des solutions de mobilier sur mesure.",
-      "image": "/images/about/factory.png"
+      "image": "/images/about/factory.webp"
     },
     "intro": {
       "title": "Qui nous sommes",
       "description": "Hong Kong Gao Sheng International Co., Ltd. est une entreprise de solutions de mobilier de bureau moderne qui intègre recherche et développement, production et ventes. L'entreprise était auparavant affiliée à Gao Sheng Office Furniture Co., LTD., fondée en 1988, avec une longue histoire de 35 ans. C'est l'un des plus anciens et des plus grands fabricants de chaises et bureaux de bureau en Chine. Les principaux produits de l'entreprise sont la chaise de bureau et le bureau comme produits principaux. Le produit a passé les normes de test américaines ANSI/BIFMA5.1, européennes EN1335 et japonaises JIS, et est conforme à la norme de l'industrie des chaises de bureau QB/T 2280-2007. Les produits sont principalement utilisés dans les grandes chaînes de supermarchés de marques, bureaux, hôtels, usines, hôpitaux, écoles, villas, familles et autres lieux. En tant qu'entreprise leader de l'industrie nationale, Gaosheng couvre une superficie de plus de 100 mu, avec 40 000 mètres carrés d'atelier de production à grande échelle et plus de 600 employés avec un grand nombre de concepteurs professionnels, fabricants, talents marketing et gestionnaires.",
-      "image": "/images/home_second.png"
+      "image": "/images/home_second.webp"
     },
     "certification":{
       "title": "Certification",
       "description": "Jusqu'à présent, l'entreprise a passé la certification du système de qualité international ISO9001, la certification du système de gestion environnementale ISO14001, la certification de produit d'étiquette environnementale de Chine, la certification de produit d'étiquette environnementale triple de Chine, la certification de produit de protection environnementale CQC de Chine et d'autres certifications d'autorité de l'industrie. Elle a remporté de nombreux titres et honneurs tels que 'Entreprise respectueuse des contrats et digne de confiance', 'Produit de protection environnementale verte de Chine', 'Produit célèbre et excellent de Chine', 'Unité membre du Conseil de promotion internationale de Chine'",
-      "image": "/images/about/certificate.png"
+      "image": "/images/about/certificate.webp"
     },
     "stats": {
       "founded": "1988",
@@ -259,7 +259,7 @@
     "vision": {
       "title": "Notre vision",
       "description": "Nous créons plus que des meubles. Nous créons plus de possibilités, et chaque jour, notre objectif ultime est de vous fournir une suite de solutions produits qui créent un sentiment de lieu où les gens peuvent réaliser tout ce qui est possible. Avec des innovations uniques, nous continuons à anticiper les changements dans la façon dont les gens travaillent, suivons les temps et concevons un lieu de travail confortable pour vous apporter les solutions les plus satisfaisantes.",
-      "image": "/images/home_third.png"
+      "image": "/images/home_third.webp"
     },
     "timeline": {
       "title": "Notre parcours",

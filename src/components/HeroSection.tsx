@@ -8,9 +8,9 @@ type Props = {
 export default async function HeroSection({ locale }: Props) {
   const t = await getTranslations({ locale, namespace: 'HomePage' });
   const images = [
-    "/images/home_first.png",
-    "/images/home_second.png",
-    "/images/home_third.png",
+    "/images/home_first.webp",
+    "/images/home_second.webp",
+    "/images/home_third.webp",
   ]
 
   return (

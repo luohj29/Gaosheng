@@ -10,12 +10,21 @@ type Props = {
   params: Promise<{ locale: string; slug: string }>;
 };
 
-export async function generateStaticParams({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
-  const products = await getProducts(locale);
-  return products.map((product) => ({
-    slug: product.slug,
-  }));
+export async function generateStaticParams() {
+  const locales = ['en', 'zh', 'fr', 'de', 'es', 'ja', 'ar'];
+  const params: Array<{ locale: string; slug: string }> = [];
+  
+  for (const locale of locales) {
+    const products = await getProducts(locale);
+    for (const product of products) {
+      params.push({
+        locale,
+        slug: product.slug,
+      });
+    }
+  }
+  
+  return params;
 }
 
 // 预处理函数，将特殊标记转换为 HTML 网格（支持 mxn 网格）

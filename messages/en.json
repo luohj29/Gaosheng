@@ -234,17 +234,17 @@
     "hero": {
       "title": "Company Profile",
       "subtitle": "Since 1988, we have been redefining workspace and living environments with bespoke furniture solutions.",
-      "image": "/images/about/factory.png"
+      "image": "/images/about/factory.webp"
     },
     "intro": {
       "title": "Who We Are",
       "description": "Hong Kong Gao Sheng International Co., Ltd. is a research and development, production, sales in one of the modern office furniture solutions enterprise. The company was formerly affiliated to Gao Sheng Office Furniture Co., LTD., founded in 1988, with a long history of 35 years. It is one of the earliest and largest office chair and desk manufacturers in China. The company's main products are office chair, desk as the core products. The product has passed the American ANSI/BIFMA5.1, European EN1335 and Japanese JIS test standards, and conforms to the QB/T 2280-2007 office chair industry standard. Products are mainly used in large brand chain supermarkets, offices, hotels, factories, hospitals, schools, villas, families and other places. As a leading enterprise in the domestic industry, Gaosheng covers an area of more than 100 mu, with 40,000 square meters of large-scale production workshop and more than 600 employees with a large number of professional designers, makers, marketing talents and managers.",
-      "image": "/images/home_second.png"
+      "image": "/images/home_second.webp"
     },
     "certification":{
       "title": "Certification",
       "description": "Up to now, the company has passed ISO9001 international quality system certification, ISO14001 environmental management system certification, China Environmental Label product certification, China three environmental label product certification, CQC China Environmental Protection product certification and other industry authority certification. It has won many titles and honors such as 'Contract-abiding and creditworthy Enterprise', 'China Green Environmental Protection Product', 'China Famous and Excellent Product', 'Member Unit of China Council for the Promotion of International'",
-      "image": "/images/about/certificate.png"
+      "image": "/images/about/certificate.webp"
     },
     "stats": {
       "founded": "1988",
@@ -259,7 +259,7 @@
     "vision": {
       "title": "Our Vision",
       "description": "We create more than just furniture. We create more possibilities, and every day, our ultimate goal is to provide you with a suite of product solutions that create a sense of place where people can achieve anything possible. With unique innovations, we continue to anticipate changes in the way people work, keep up with The Times, and design for a comfortable workplace to bring you the most satisfying solutions.",
-      "image": "/images/home_third.png"
+      "image": "/images/home_third.webp"
     },
     "timeline": {
       "title": "Our Journey",

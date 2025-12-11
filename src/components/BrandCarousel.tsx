@@ -1,15 +1,15 @@
 import Image from 'next/image';
 
 const brands = [
-    { name: 'brand1', logo: '/brand/brand1.png' },
-    { name: 'brand2', logo: '/brand/brand2.png' },
-    { name: 'brand3', logo: '/brand/brand3.png' },
-    { name: 'brand4', logo: '/brand/brand4.png' },
-    { name: 'brand5', logo: '/brand/brand5.png' },
-    { name: 'brand6', logo: '/brand/brand6.png' },
-    { name: 'brand7', logo: '/brand/brand7.png' },
-    { name: 'brand8', logo: '/brand/brand8.png' },
-    { name: 'brand9', logo: '/brand/brand9.png' },
+    { name: 'brand1', logo: '/brand/brand1.webp' },
+    { name: 'brand2', logo: '/brand/brand2.webp' },
+    { name: 'brand3', logo: '/brand/brand3.webp' },
+    { name: 'brand4', logo: '/brand/brand4.webp' },
+    { name: 'brand5', logo: '/brand/brand5.webp' },
+    { name: 'brand6', logo: '/brand/brand6.webp' },
+    { name: 'brand7', logo: '/brand/brand7.webp' },
+    { name: 'brand8', logo: '/brand/brand8.webp' },
+    { name: 'brand9', logo: '/brand/brand9.webp' },
 ];
 
 export default function BrandCarousel() {

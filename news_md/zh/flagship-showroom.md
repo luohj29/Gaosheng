@@ -2,7 +2,7 @@
 title: "高晟上海旗舰陈列实验室正式启用"
 date: "2025-05-08"
 description: "位于上海的 1,200 平方米共创空间，开发商可与团队实时搭建样板间。"
-image: "/images/home_first.png"
+image: "/images/home_first.webp"
 ---
 
 我们非常高兴地宣布，位于上海的新旗舰展厅正式开业。这个 1,200 平方米的空间不仅是一个展示区，更是一个协作实验室。
@@ -11,7 +11,7 @@ image: "/images/home_first.png"
 
 开发商和设计师现在可以与我们的团队直接合作，实时搭建样板房原型。展厅拥有庞大的材料库、可移动墙体系统以及我们完整的模块化家具系列。
 
-![展厅内部](/images/home_second.png)
+![展厅内部](/images/home_second.webp)
 
 ### 核心特色
 

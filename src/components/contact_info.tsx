@@ -11,10 +11,10 @@ type ContactItem = {
 };
 
 const CONTACTS: ContactItem[] = [
-  { id: "wechat", icon: "/icon/wechat.png", label: "WeChat", value: "/contact/wechat.png", useImage: true },
-  { id: "phone", icon: "/icon/tel.png", label: "Phone", value: "00852-53008243 \n+86-13702827856" },
-  { id: "whatsapp", icon: "/icon/whatsapp.png", label: "WhatsApp", value: "/contact/whatsapp.png", useImage: true },
-  { id: "email", icon: "/icon/email.png", label: "Email", value: "officefurniture1@gaoshenghk.com" }
+  { id: "wechat", icon: "/icon/wechat.webp", label: "WeChat", value: "/contact/wechat.webp", useImage: true },
+  { id: "phone", icon: "/icon/tel.webp", label: "Phone", value: "00852-53008243 \n+86-13702827856" },
+  { id: "whatsapp", icon: "/icon/whatsapp.webp", label: "WhatsApp", value: "/contact/whatsapp.webp", useImage: true },
+  { id: "email", icon: "/icon/email.webp", label: "Email", value: "officefurniture1@gaoshenghk.com" }
 ];
 
 export default function ContactInfo() {

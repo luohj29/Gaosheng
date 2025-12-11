@@ -9,12 +9,21 @@ type Props = {
   params: Promise<{ locale: string; slug: string }>;
 };
 
-export async function generateStaticParams({ params }: { params: Promise<{ locale: string }> }) {
-  const { locale } = await params;
-  const posts = await getNewsPosts(locale);
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
+export async function generateStaticParams() {
+  const locales = ['en', 'zh', 'fr', 'de', 'es', 'ja', 'ar'];
+  const params: Array<{ locale: string; slug: string }> = [];
+  
+  for (const locale of locales) {
+    const posts = await getNewsPosts(locale);
+    for (const post of posts) {
+      params.push({
+        locale,
+        slug: post.slug,
+      });
+    }
+  }
+  
+  return params;
 }
 
 export default async function NewsPostPage(props: Props) {

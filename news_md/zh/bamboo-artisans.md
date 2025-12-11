@@ -2,7 +2,7 @@
 title: "可持续设计：与竹艺匠人的深度合作"
 date: "2025-04-19"
 description: "探索传统工艺与现代可持续设计的交汇点。"
-image: "/images/home_third.png"
+image: "/images/home_third.webp"
 ---
 
 可持续性是我们工作的核心。我们最新的举措是与来自杭州的竹艺大师建立合作伙伴关系。

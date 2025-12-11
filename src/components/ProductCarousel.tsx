@@ -69,7 +69,7 @@ export default function ProductCarousel({ products, itemsPerPage = 5 }: Props) {
                     >
                         <div className="h-48 rounded-2xl bg-gradient-to-br bg-white transition group-hover:scale-105" >
                             <img
-                                src={`/images/${product.id}/image.png`}
+                                src={`/images/${product.id}/image.webp`}
                                 alt={`${product.title}`}
                                 // fill       // 让图片自动填满父 div
                                 className="w-full h-full object-contain"

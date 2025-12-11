@@ -234,17 +234,17 @@
     "hero": {
       "title": "Perfil de la empresa",
       "subtitle": "Desde 1988, hemos estado redefiniendo los entornos de trabajo y vida con soluciones de muebles a medida.",
-      "image": "/images/about/factory.png"
+      "image": "/images/about/factory.webp"
     },
     "intro": {
       "title": "Quiénes somos",
       "description": "Hong Kong Gao Sheng International Co., Ltd. es una empresa de soluciones de muebles de oficina modernos que integra investigación y desarrollo, producción y ventas. La empresa anteriormente estaba afiliada a Gao Sheng Office Furniture Co., LTD., fundada en 1988, con una larga historia de 35 años. Es uno de los fabricantes de sillas y escritorios de oficina más antiguos y grandes de China. Los productos principales de la empresa son silla de oficina y escritorio como productos principales. El producto ha pasado los estándares de prueba estadounidenses ANSI/BIFMA5.1, europeos EN1335 y japoneses JIS, y cumple con el estándar de la industria de sillas de oficina QB/T 2280-2007. Los productos se utilizan principalmente en grandes supermercados de cadena de marcas, oficinas, hoteles, fábricas, hospitales, escuelas, villas, familias y otros lugares. Como empresa líder en la industria nacional, Gaosheng cubre un área de más de 100 mu, con 40,000 metros cuadrados de taller de producción a gran escala y más de 600 empleados con una gran cantidad de diseñadores profesionales, fabricantes, talentos de marketing y gerentes.",
-      "image": "/images/home_second.png"
+      "image": "/images/home_second.webp"
     },
     "certification":{
       "title": "Certificación",
       "description": "Hasta ahora, la empresa ha pasado la certificación del sistema de calidad internacional ISO9001, la certificación del sistema de gestión ambiental ISO14001, la certificación de productos de etiqueta ambiental de China, la certificación de productos de etiqueta ambiental triple de China, la certificación de productos de protección ambiental CQC de China y otras certificaciones de autoridad de la industria. Ha ganado muchos títulos y honores como 'Empresa que cumple contratos y es digna de crédito', 'Producto de protección ambiental verde de China', 'Producto famoso y excelente de China', 'Unidad miembro del Consejo de Promoción Internacional de China'",
-      "image": "/images/about/certificate.png"
+      "image": "/images/about/certificate.webp"
     },
     "stats": {
       "founded": "1988",
@@ -259,7 +259,7 @@
     "vision": {
       "title": "Nuestra visión",
       "description": "Creamos más que muebles. Creamos más posibilidades, y cada día, nuestro objetivo final es proporcionarle un conjunto de soluciones de productos que creen un sentido de lugar donde las personas puedan lograr todo lo posible. Con innovaciones únicas, continuamos anticipando cambios en la forma en que las personas trabajan, mantenemos el ritmo de los tiempos y diseñamos para un lugar de trabajo cómodo para brindarle las soluciones más satisfactorias.",
-      "image": "/images/home_third.png"
+      "image": "/images/home_third.webp"
     },
     "timeline": {
       "title": "Nuestro viaje",

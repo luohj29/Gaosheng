@@ -2,7 +2,7 @@
 title: "豪华行政办公椅"
 description: "高端真皮行政椅，具有人体工学功能和优质饰面。"
 images:
-  - "/images/executive/image.png"
+  - "/images/executive/image.webp"
 category: "行政系列"
 features:
   - "优质真皮内饰"

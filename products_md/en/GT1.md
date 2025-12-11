@@ -2,7 +2,7 @@
 title: "GT1: Original design ergonomic high back office chair"
 description: "GT High-back chair is a high-quality high-back chair co-designed by Gao Sheng and TOYO Taper. It is not only pleasing to the eye, but also comfortable to sit in. Curved back design, give you a comfortable feeling."
 images:
-  - "/images/GT1/image.png"
+  - "/images/GT1/image.webp"
 variants:
   - "/images/GT1/橙色绒布正面.jpg"
   - "/images/GT1/黑色正面.jpg"

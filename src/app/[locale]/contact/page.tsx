@@ -12,8 +12,8 @@ const CONTACT_INFO = {
   phone2: '+86-13702827856',
   email: 'officefurniture1@gaoshenghk.com',
   address: 'Room 4, 16/f, Ho King Commercial Centre, 2-16 Fayuen Street, Mongkok Kowloon, Hong Kong',
-  wechatQR: '/contact/wechat.png',
-  whatsappQR: '/contact/whatsapp.png',
+  wechatQR: '/contact/wechat.webp',
+  whatsappQR: '/contact/whatsapp.webp',
 };
 
 const channelKeys = ['consultation', 'showroom', 'partnership'] as const;

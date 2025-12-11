@@ -2,19 +2,19 @@
 title: "G1830 学校培训椅"
 description: "鲸鱼造型人体工学椅，配有折叠写字板，专为教育和培训空间设计。"
 images:
-  - "/images/g1830/image.png"
+  - "/images/g1830/image.webp"
 variants:
   - name: "红色"
-    image: "/images/g1830/image.png"
+    image: "/images/g1830/image.webp"
     colorCode: "#ef4444"
   - name: "蓝色"
-    image: "/images/g1830/image.png"
+    image: "/images/g1830/image.webp"
     colorCode: "#3b82f6"
   - name: "灰色"
-    image: "/images/g1830/image.png"
+    image: "/images/g1830/image.webp"
     colorCode: "#9ca3af"
   - name: "绿色"
-    image: "/images/g1830/image.png"
+    image: "/images/g1830/image.webp"
     colorCode: "#22c55e"
 videoUrl: "https://www.youtube.com/embed/your-video-id"
 category: "教育系列"
@@ -41,7 +41,7 @@ specifications:
 
 椅子设计元素取自鲸鱼的尾巴，活泼、可爱且充满想象力。圆形的座椅设计代表包容与宽广的胸怀。Y 形靠背支撑代表成就、胜利和挑战。
 
-![设计概念](/images/g1830/image.png)
+![设计概念](/images/g1830/image.webp)
 
 > “在知识的海洋中畅游。”
 

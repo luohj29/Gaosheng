@@ -45,7 +45,7 @@ export default async function ProjectShow({ locale }: Props) {
           >
             <div className="w-full h-full">
               <img
-                src={`/images/${key}.png`}
+                src={`/images/${key}.webp`}
                 alt={key}
                 className="w-full h-full object-cover"
               />

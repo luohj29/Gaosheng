@@ -21,7 +21,7 @@ export default async function Navbar({ locale }: Props) {
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-6 px-6 py-4">
         <Link href={`/${locale}`} className="text-lg font-semibold tracking-wide text-gray-900">
           <img
-            src="/icon/logo.png" alt="logo"
+            src="/icon/logo.webp" alt="logo"
              />
         </Link>
         <nav className="hidden items-center gap-6 text-sm font-medium text-gray-600 md:flex">

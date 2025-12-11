@@ -29,8 +29,8 @@ const SOCIAL_LINKS = {
 
 // 二维码图片路径
 const QR_CODE_PATHS = {
-  whatsapp: '/contact/whatsapp.png',
-  wechat: '/contact/wechat.png',
+  whatsapp: '/contact/whatsapp.webp',
+  wechat: '/contact/wechat.webp',
 };
 
 export default async function Footer({locale}: Props) {

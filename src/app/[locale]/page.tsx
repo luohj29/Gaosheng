@@ -13,6 +13,18 @@ type Props = {
   params: Promise<{locale: string}>;
 };
 
+export function generateStaticParams() {
+  return [
+    { locale: "en" },
+    { locale: "zh" },
+    { locale: "fr" },
+    { locale: "de" },
+    { locale: "es" },
+    { locale: "ja" },
+    { locale: "ar" },
+  ];
+}
+
 export default async function HomePage({params}: Props) {
   const {locale} = await params;
   return (

@@ -42,7 +42,7 @@
     "Products":{
       "title": "Productos",
       "description": "Productos",
-      "image": "/images/products/product1.jpg"
+      "image": "/images/products/product1.webp"
     }
   },
   "HomePage": {
@@ -298,7 +298,7 @@
     "globalService": {
       "title": "Capacidad de servicio global",
       "description": "En la actualidad, los mercados de la empresa están en toda Europa, América del Norte, el Sudeste Asiático, el Medio Oriente y otros países y regiones, involucrando más de 100 países. Y la cooperación a largo plazo será con Huawei Technologies Co., LTD., Danaher Group, Weilan Power, Baosteel, Samsung Electronics, Hilton Hampton Hotel, apartamento estudiantil urbanest de Melbourne, Dubai Land Bureau, Dongfeng Renault, Meitu Company, Abbott Pharmaceutical, CRRC Group y otras marcas conocidas. Para mantener la calidad y el servicio, hemos establecido puntos de servicio locales en la mayoría de los países locales, y siempre nos adherimos firmemente al estilo de trabajo de satisfacción de la experiencia del usuario primero, ventas segundo.",
-      "image": "/images/about/global_service.jpg"
+      "image": "/images/about/global_service.webp"
     }
   },  
   "ProductPage": {

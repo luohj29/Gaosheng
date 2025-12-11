@@ -42,7 +42,7 @@
     "Products":{
       "title": "产品",
       "description": "产品",
-      "image": "/images/products/product1.jpg"
+      "image": "/images/products/product1.webp"
     }
   },
   "HomePage": {
@@ -298,7 +298,7 @@
     "globalService": {
       "title": "全球服务能力",
       "description": "目前，公司的市场遍布欧洲、北美、东南亚、中东等国家和地区，涉及100多个国家。并将与华为技术有限公司、丹纳赫集团、蔚蓝动力、宝钢、三星电子、希尔顿汉普顿酒店、墨尔本urbanest学生公寓、迪拜土地局、东风雷诺、美图公司、雅培制药、中车集团等知名品牌长期合作。为了保持质量和服务，我们在大多数当地国家设立了本地服务网点，始终坚定坚持用户体验满意度第一、销售第二的工作作风。",
-      "image": "/images/about/global_service.jpg"
+      "image": "/images/about/global_service.webp"
     }
   },
   "ProductPage": {

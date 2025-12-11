@@ -42,7 +42,7 @@
     "Products":{
       "title": "製品",
       "description": "製品",
-      "image": "/images/products/product1.jpg"
+      "image": "/images/products/product1.webp"
     }
   },
   "HomePage": {
@@ -298,7 +298,7 @@
     "globalService": {
       "title": "グローバルサービス能力",
       "description": "現在、同社の市場はヨーロッパ、北米、東南アジア、中東、その他の国や地域に広がり、100以上の国をカバーしています。そして、長期的な協力は、華為技術有限公司、ダナハーグループ、蔚藍動力、宝鋼、サムスン電子、ヒルトンハンプトンホテル、メルボルンurbanest学生アパート、ドバイ土地局、東風ルノー、美図公司、アボット製薬、CRRCグループ、その他の有名ブランドと行われます。品質とサービスを維持するために、私たちはほとんどの現地国に現地サービス拠点を設置し、常にユーザーエクスペリエンス満足度を第一に、販売を第二とする作業スタイルを固く守っています。",
-      "image": "/images/about/global_service.jpg"
+      "image": "/images/about/global_service.webp"
     }
   },  
   "ProductPage": {

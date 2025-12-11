@@ -4,14 +4,14 @@ description: "GT2A is an ergonomic office chair, task chair for workers and staf
 images:
   - "/images/GT2/image.webp"
 variants:
-  - "/images/GT2/t2_b正面.jpg"
-  - "/images/GT2/gt2_c正面.jpg"
-  - "/images/GT2/GT2A.jpg"
-  - "/images/GT2/GT2A front.jpg"
-  - "/images/GT2/GT2A side.jpg"
-  - "/images/GT2/GT2B.jpg"
-  - "/images/GT2/GT2C.jpg"
-  - "/images/GT2/GT2D.jpg"
+  - "/images/GT2/t2_b正面.webp"
+  - "/images/GT2/gt2_c正面.webp"
+  - "/images/GT2/GT2A.webp"
+  - "/images/GT2/GT2A front.webp"
+  - "/images/GT2/GT2A side.webp"
+  - "/images/GT2/GT2B.webp"
+  - "/images/GT2/GT2C.webp"
+  - "/images/GT2/GT2D.webp"
 videoUrl: "https://www.gaoshenghk.com/uploads/GT2A.mp4"
 category: "General/Business"
 features:

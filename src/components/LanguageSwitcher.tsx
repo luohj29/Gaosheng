@@ -3,12 +3,14 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
-import { locales, flagMap } from "@/src/i18n/config";
+import { locales, flagMap, type Locale } from "@/src/i18n/config";
 
 const SUPPORTED_LOCALES = locales;
 const FLAG_MAP = flagMap;
 
 export default function LanguageSwitcher({ locale }: { locale: string }) {
+  // 确保 locale 是有效的 Locale 类型
+  const currentLocale = (locales.includes(locale as Locale) ? locale : 'en') as Locale;
   const pathname = usePathname(); //获取当前链接
   const [open, setOpen] = useState(false); //设置Hover按钮默认关
   const wrapperRef = useRef<HTMLDivElement | null>(null); 
@@ -80,7 +82,7 @@ export default function LanguageSwitcher({ locale }: { locale: string }) {
         aria-expanded={open}
         className="flex items-center justify-center rounded px-2 py-1 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300"
       >
-        <span className="text-2xl select-none pointer-events-none">{FLAG_MAP[locale]}</span>
+        <span className="text-2xl select-none pointer-events-none">{FLAG_MAP[currentLocale]}</span>
       </button>
 
       {/* 下拉菜单 */}
@@ -95,7 +97,7 @@ export default function LanguageSwitcher({ locale }: { locale: string }) {
       >
         <div className="p-2 flex flex-col gap-1 min-w-[120px] max-h-[320px] overflow-y-auto">
           {SUPPORTED_LOCALES.map((lng) => {
-            const isCurrent = lng === locale;
+            const isCurrent = lng === currentLocale;
             // 如果是当前语言，显示不可点击状态
             if (isCurrent) {
               return (

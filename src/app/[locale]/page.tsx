@@ -8,21 +8,14 @@ import FollowUs from '@/src/components/FollowUs';
 import ProjectShow from '@/src/components/ProjectShow';
 import News from '@/src/components/News';
 import BrandCarousel from '@/src/components/BrandCarousel';
+import { locales } from '@/src/i18n/config';
 
 type Props = {
   params: Promise<{locale: string}>;
 };
 
 export function generateStaticParams() {
-  return [
-    { locale: "en" },
-    { locale: "zh" },
-    { locale: "fr" },
-    { locale: "de" },
-    { locale: "es" },
-    { locale: "ja" },
-    { locale: "ar" },
-  ];
+  return locales.map((locale) => ({ locale }));
 }
 
 export default async function HomePage({params}: Props) {

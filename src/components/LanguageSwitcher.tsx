@@ -3,18 +3,10 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
+import { locales, flagMap } from "@/src/i18n/config";
 
-const FLAG_MAP: Record<string, string> = {
-  en: "🇺🇸",
-  zh: "🇨🇳",
-  ja: "🇯🇵",
-  fr: "🇫🇷",
-  de: "🇩🇪",
-  es: "🇪🇸",
-  ar: "🇸🇦"
-};
-
-const SUPPORTED_LOCALES = ["en", "zh", "fr", "de", "es", "ja", "ar"];
+const SUPPORTED_LOCALES = locales;
+const FLAG_MAP = flagMap;
 
 export default function LanguageSwitcher({ locale }: { locale: string }) {
   const pathname = usePathname(); //获取当前链接

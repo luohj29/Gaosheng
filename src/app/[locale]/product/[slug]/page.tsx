@@ -5,13 +5,13 @@ import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import Link from 'next/link';
 import ProductDetailCarousel from '@/src/components/ProductDetailCarousel';
+import { locales } from '@/src/i18n/config';
 
 type Props = {
   params: Promise<{ locale: string; slug: string }>;
 };
 
 export async function generateStaticParams() {
-  const locales = ['en', 'zh', 'fr', 'de', 'es', 'ja', 'ar'];
   const params: Array<{ locale: string; slug: string }> = [];
   
   for (const locale of locales) {

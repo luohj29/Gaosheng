@@ -1,9 +1,9 @@
 ---
-العنوان: "GT2: كرسي مكتب مريح"
-الوصف: "GT2A هو كرسي مكتب مريح، كرسي مهام للعمال وكرسي موظفين، حاصل على شهادة BIFMA الأمريكية، مزود بآلية إمالة ذاتية الوزن. مع مساند ذراع ثنائية الأبعاد ووظيفة الإمالة والقفل."
-الصور:
+title: "GT2: كرسي مكتب مريح"
+description: "GT2A هو كرسي مكتب مريح، كرسي مهام للعمال وكرسي موظفين، حاصل على شهادة BIFMA الأمريكية، مزود بآلية إمالة ذاتية الوزن. مع مساند ذراع ثنائية الأبعاد ووظيفة الإمالة والقفل."
+images:
   - "/images/GT2/image.webp"
-المتغيرات:
+variants:
   - "/images/GT2/t2_b正面.webp"
   - "/images/GT2/gt2_c正面.webp"
   - "/images/GT2/GT2A.webp"
@@ -12,11 +12,12 @@
   - "/images/GT2/GT2B.webp"
   - "/images/GT2/GT2C.webp"
   - "/images/GT2/GT2D.webp"
-رابط الفيديو: "https://www.gaoshenghk.com/uploads/GT2A.mp4"
-الفئة: "عام/أعمال"
-الميزات:
+videoUrl: "https://www.gaoshenghk.com/uploads/GT2A.mp4"
+category: "عام/أعمال"
+features:
   - "الشهادة: BIFMA"
   - "متاح OEM/ODM"
+---
 
 ## كرسي مكتب مريح عالي الظهر بتصميم أصلي
 

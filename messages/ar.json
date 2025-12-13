@@ -400,6 +400,7 @@
     },
     "formHeading": "أرسل لنا ملخصًا",
     "formDescription": "اترك نظرة عامة سريعة وسيتابع مستشارونا لجدولة جلسة.",
+    "contactInfoHeading": "معلومات الاتصال",
     "formFields": {
       "name": "الاسم الكامل",
       "namePlaceholder": "أدخل اسمك",

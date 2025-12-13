@@ -400,6 +400,7 @@
     },
     "formHeading": "Send us a brief",
     "formDescription": "Leave a quick overview and our consultants will follow up to schedule a session.",
+    "contactInfoHeading": "Contact Information",
     "formFields": {
       "name": "Full name",
       "namePlaceholder": "Enter your name",

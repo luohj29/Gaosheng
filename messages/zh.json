@@ -400,6 +400,7 @@
     },
     "formHeading": "发送项目信息",
     "formDescription": "留下联系方式与需求重点，顾问将与您确认沟通时间。",
+    "contactInfoHeading": "联系信息",
     "formFields": {
       "name": "姓名",
       "namePlaceholder": "请输入姓名",

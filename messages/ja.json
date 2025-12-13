@@ -400,6 +400,7 @@
     },
     "formHeading": "概要を送信",
     "formDescription": "簡単な概要を残してください。コンサルタントがフォローアップしてセッションをスケジュールします。",
+    "contactInfoHeading": "連絡先情報",
     "formFields": {
       "name": "フルネーム",
       "namePlaceholder": "お名前を入力",

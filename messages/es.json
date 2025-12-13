@@ -400,6 +400,7 @@
     },
     "formHeading": "Envíenos un resumen",
     "formDescription": "Deje una descripción general rápida y nuestros consultores harán seguimiento para programar una sesión.",
+    "contactInfoHeading": "Información de contacto",
     "formFields": {
       "name": "Nombre completo",
       "namePlaceholder": "Ingrese su nombre",

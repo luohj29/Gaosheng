@@ -400,6 +400,7 @@
     },
     "formHeading": "Senden Sie uns eine Zusammenfassung",
     "formDescription": "Hinterlassen Sie eine kurze Übersicht und unsere Berater werden sich melden, um eine Sitzung zu planen.",
+    "contactInfoHeading": "Kontaktinformationen",
     "formFields": {
       "name": "Vollständiger Name",
       "namePlaceholder": "Geben Sie Ihren Namen ein",

@@ -1,9 +1,9 @@
 ---
-العنوان: "GT1: كرسي مكتبي عالي الظهر مريح بتصميم أصلي"
-الوصف: "كرسي GT عالي الظهر هو كرسي عالي الجودة تم تصميمه بالتعاون بين غاو شينغ وTOYO Taper. لا يرضي العين فحسب، بل هو مريح للجلوس. تصميم ظهر منحني، يمنحك إحساسًا مريحًا."
-الصور:
+title: "GT1: كرسي مكتبي عالي الظهر مريح بتصميم أصلي"
+description: "كرسي GT عالي الظهر هو كرسي عالي الجودة تم تصميمه بالتعاون بين غاو شينغ وTOYO Taper. لا يرضي العين فحسب، بل هو مريح للجلوس. تصميم ظهر منحني، يمنحك إحساسًا مريحًا."
+images:
   - "/images/GT1/image.webp"
-المتغيرات:
+variants:
   - "/images/GT1/橙色绒布正面.webp"
   - "/images/GT1/黑色正面.webp"
   - "/images/GT1/红色背面.webp"
@@ -18,9 +18,9 @@
   - "/images/GT1/GT1-WTY-C front.webp"
   - "/images/GT1/GT1-WTY-R.webp"
   - "/images/GT1/GT1-WTY-R front.webp"
-رابط الفيديو: "https://www.gaoshenghk.com/uploads/GT1.mp4"
-الفئة: "عام/أعمال"
-الميزات:
+videoUrl: "https://www.gaoshenghk.com/uploads/GT1.mp4"
+category: "عام/أعمال"
+features:
   - "الشهادة: BIFMA"
   - "متاح OEM/ODM."
 ---

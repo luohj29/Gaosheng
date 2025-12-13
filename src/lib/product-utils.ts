@@ -31,47 +31,83 @@ export type Product = {
 const productsDirectory = path.join(process.cwd(), 'products_md');
 
 export async function getProducts(locale: string): Promise<Product[]> {
-  // Always use 'en' locale for markdown files
-  const localeDir = path.join(productsDirectory, 'en');
+  const localeDir = path.join(productsDirectory, locale);
+  const enDir = path.join(productsDirectory, 'en');
   
-  if (!fs.existsSync(localeDir)) {
-    console.warn(`Directory not found for locale: en`);
-    return [];
+  // Get all products from the specified locale directory
+  const localeProducts: Map<string, Product> = new Map();
+  if (fs.existsSync(localeDir)) {
+    const localeFilenames = fs.readdirSync(localeDir);
+    localeFilenames
+      .filter((filename) => filename.endsWith('.md'))
+      .forEach((filename) => {
+        const filePath = path.join(localeDir, filename);
+        const fileContents = fs.readFileSync(filePath, 'utf8');
+        const { data, content } = matter(fileContents);
+        const slug = filename.replace(/\.md$/, '');
+
+        localeProducts.set(slug, {
+          slug,
+          title: data.title,
+          description: data.description,
+          images: data.images || [],
+          variants: data.variants || [],
+          videoUrl: data.videoUrl,
+          category: data.category,
+          features: data.features,
+          specifications: data.specifications,
+          content,
+        } as Product);
+      });
   }
 
-  const filenames = fs.readdirSync(localeDir);
+  // Get all products from 'en' directory as fallback
+  if (!fs.existsSync(enDir)) {
+    console.warn(`Directory not found for locale: en`);
+    return Array.from(localeProducts.values());
+  }
 
-  const products = filenames
+  const enFilenames = fs.readdirSync(enDir);
+  enFilenames
     .filter((filename) => filename.endsWith('.md'))
-    .map((filename) => {
-      const filePath = path.join(localeDir, filename);
-      const fileContents = fs.readFileSync(filePath, 'utf8');
-      const { data, content } = matter(fileContents);
+    .forEach((filename) => {
       const slug = filename.replace(/\.md$/, '');
+      
+      // Only use 'en' version if locale-specific version doesn't exist
+      if (!localeProducts.has(slug)) {
+        const filePath = path.join(enDir, filename);
+        const fileContents = fs.readFileSync(filePath, 'utf8');
+        const { data, content } = matter(fileContents);
 
-      return {
-        slug,
-        title: data.title,
-        description: data.description,
-        images: data.images || [],
-        variants: data.variants || [],
-        videoUrl: data.videoUrl,
-        category: data.category,
-        features: data.features,
-        specifications: data.specifications,
-        content,
-      } as Product;
+        localeProducts.set(slug, {
+          slug,
+          title: data.title,
+          description: data.description,
+          images: data.images || [],
+          variants: data.variants || [],
+          videoUrl: data.videoUrl,
+          category: data.category,
+          features: data.features,
+          specifications: data.specifications,
+          content,
+        } as Product);
+      }
     });
 
-  return products;
+  return Array.from(localeProducts.values());
 }
 
 export async function getProduct(locale: string, slug: string): Promise<Product | null> {
-  // Always use 'en' locale for markdown files
-  const fullPath = path.join(productsDirectory, 'en', `${slug}.md`);
+  // Try to use the specified locale, fallback to 'en' if not found
+  let fullPath = path.join(productsDirectory, locale, `${slug}.md`);
   
   if (!fs.existsSync(fullPath)) {
-    return null;
+    // Fallback to 'en' if the locale-specific file doesn't exist
+    fullPath = path.join(productsDirectory, 'en', `${slug}.md`);
+    
+    if (!fs.existsSync(fullPath)) {
+      return null;
+    }
   }
 
   const fileContents = fs.readFileSync(fullPath, 'utf8');

@@ -1,0 +1,146 @@
+---
+title: "GT1: オリジナルデザイン 人間工学に基づいたハイバックオフィスチェア"
+description: "GTハイバックチェアは、高昇とTOYO Taperが共同デザインした高品質なハイバックチェアです。見た目にも美しく、座り心地も抜群です。湾曲した背もたれデザインが、快適なフィット感を提供します。"
+images:
+  - "/images/GT1/image.webp"
+variants:
+  - "/images/GT1/橙色绒布正面.webp"
+  - "/images/GT1/黑色正面.webp"
+  - "/images/GT1/红色背面.webp"
+  - "/images/GT1/红色正面.webp"
+  - "/images/GT1/绿色背面.webp"
+  - "/images/GT1/绿色正面.webp"
+  - "/images/GT1/GT1BOO-C.webp"
+  - "/images/GT1/GT1-BOO-R.webp"
+  - "/images/GT1/GT1BTY-C.webp"
+  - "/images/GT1/GT1-WTY-C.webp"
+  - "/images/GT1/GT1-WTY-C back side.webp"
+  - "/images/GT1/GT1-WTY-C front.webp"
+  - "/images/GT1/GT1-WTY-R.webp"
+  - "/images/GT1/GT1-WTY-R front.webp"
+videoUrl: "https://www.gaoshenghk.com/uploads/GT1.mp4"
+category: "一般/ビジネス"
+features:
+  - "認証 : BIFMA"
+  - "OEM/ODM対応可"
+---
+
+## オリジナルデザイン 人間工学に基づいたハイバックオフィスチェア
+
+[![オリジナルデザイン 人間工学に基づいたハイバックオフィスチェア メイン画像](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)
+
+
+
+## 製品詳細
+
+
+![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
+
+![detail8 (1)](https://www.gaoshenghk.com/uploads/detail8-11.jpg)
+### GTシリーズ: オリジナルデザイン
+![detail8 (2)](https://www.gaoshenghk.com/uploads/detail8-21.jpg)
+### 高昇: 30年以上の経験を持つメーカー
+![detail8 (3)](https://www.gaoshenghk.com/uploads/detail8-31.jpg)
+### TOYO: 60年以上の経験を持つメーカー
+![detail8 (4)](https://www.gaoshenghk.com/uploads/detail8-4.jpg)
+## GT1シリーズ: ミドルバックタイプとファブリックタイプがあります。
+背もたれは十分にリラックスさせ、まるで自然の中で植物が呼吸するかのように、長時間座ることによる人体の疲労を和らげます。GTはあなたのために働くチェアです。機能とデザインを一つに融合させています。ブラックまたはホワイトのフレームから選択可能で、優雅さと独自性を感じさせ、ユーザーと自然をより近づけます。
+![detail8 (5)](https://www.gaoshenghk.com/uploads/detail8-5.jpg)
+### 3D一体型通気性クッションが長時間の着座をサポート。
+![detail8 (6)](https://www.gaoshenghk.com/uploads/detail8-6.jpg)
+## GTシリーズの機能
+![detail8 (7)](https://www.gaoshenghk.com/uploads/detail8-7.jpg)
+
+![detail8 (8)](https://www.gaoshenghk.com/uploads/detail8-8.jpg)
+
+![detail8 (9)](https://www.gaoshenghk.com/uploads/detail8-9.jpg)
+
+## 仕様:
++   BIFMA認証取得済み:
++   1, 背もたれ: 優れたPPメインフレームにメッシュと調整可能なヘッドレスト付き（PPフレームはブラックまたはホワイト色選択可）;
++   2, コートハンガー: オプション;
++   3, 座面クッション: 高密度55発泡ウレタン、ファブリックまたはスライドカバー;
++   4, 腰サポート: 高さ調整可能;
++   5, アームレスト: 優れたPUパッドカバー、調整可能;
++   6, メカニズム: 多機能メカニズム、昇降、チルトロック;
++   7, ベース: 研磨仕上げアルミニウムベース、耐荷重1000kg、BIFMA承認;
++   8, ガスリフト: KGS 100\*80# ガスリフト、寿命は上下120,000回、SGS承認;
++   9, キャスター: PUキャスター（直径:60mm）、50,000回の耐性試験と50,000回の疲労試験合格、BIFMA承認;
+
+![detail8 (10)](https://www.gaoshenghk.com/uploads/detail8-10.jpg)
+### A-右下のレバーを使用して座面の高さを調整できます。
+
+### B-左下のレバーを使用して、リクライニングを体の動きに合わせて自由に動くように設定できます。
+
+-手が届きやすい位置にあるレバーで、座面を前後に簡単にスライドさせることができます。
+
+DGTはクラシックとエレガントな特徴を統合し、繁栄、完璧さ、知恵を完全に表現しています。あらゆる細部に優れています。
+
+新シリーズで使用されているメッシュは通気性があり軽量です。その張力特性により、快適さと同時にストレス緩和も提供します。
+
+高昇オフィスチェアの新コレクションでは、背もたれと座面が同期システムとして動き、各ユーザーに合わせて継続的かつ持続的なサポートを提供します。姿勢やデバイスに関わらず、背もたれがユーザーを包み込みます。
+
+-座面下の手が届きやすい位置にあるテンションダイヤルを使用して、リクライニングのテンションを微調整できます。
+ヘッドレスト
+成形ポリプロピレン（100%リサイクル可能）のホワイトまたはブラック外殻。
+
+ファブリック/レザー表面
+ポリウレタンフォーム（カーペットパッド、詰め物などにリサイクル可能）を覆った張り地。
+メッシュ表面
+76% エラストマー / 24% ポリエステル 高張力メッシュ。
+
+座面: 高さとスライド調整可能
+成形ポリプロピレン（100%リサイクル可能）のホワイトまたはブラック外殻。
+
+ベース: ダイカストアルミニウム合金（100%リサイクル可能）の五脚ベース、クロームまたは研磨仕上げ。成形ポリアミド（ナイロン）製60mmデュアルホイールキャスター。お好みの設定。
+
+背もたれ: 高さと腰サポート高さ調整可能。
+ポリプロピレン（100%リサイクル可能）製のホワイトまたはブラック外殻、腰調整ノブとキャップ。ホワイト繊維強化ポリプロピレン（100%リサイクル可能）製の背もたれフレーム。
+
+アームレスト: 高さとスイング角度調整可能。
+標準ブラック色の一体型PUフォーム製アームパッド、PPシェルの上に成形。
+
+## BIFMA認証取得済み:
+### 構造はプロフェッショナルオフィス規格BIFMAテストを通過
+![detail8 (11)](https://www.gaoshenghk.com/uploads/detail8-111.jpg)
+
+![detail8 (12)](https://www.gaoshenghk.com/uploads/detail8-12.jpg)
+
+![detail8 (13)](https://www.gaoshenghk.com/uploads/detail8-13.jpg)
+
+## カラーオプション
+![detail8 (14)](https://www.gaoshenghk.com/uploads/detail8-14.jpg)
+
+![detail8 (15)](https://www.gaoshenghk.com/uploads/detail8-15.jpg)
+
+![detail8 (16)](https://www.gaoshenghk.com/uploads/detail8-16.jpg)
+
+## 梱包:
+![detail8 (17)](https://www.gaoshenghk.com/uploads/detail8-17.jpg)
+
+![detail8 (18)](https://www.gaoshenghk.com/uploads/detail8-18.jpg)
+梱包: 5層K5=K5輸出標準（250ポンド）段ボール、または特別な梱包要求にも対応可。
+段ボールサイズ: 32.68*27.17*19.69インチ (1個/箱)
+CBM: 0.29
+総重量: 26KGS
+
+## プロジェクト写真:
+### GT1はオフィスワークステーション、病院、学校で使用できます。
+![detail8 (19)](https://www.gaoshenghk.com/uploads/detail8-19.jpg)
+
+![detail8 (20)](https://www.gaoshenghk.com/uploads/detail8-20.jpg)
+
+![detail8 (21)](https://www.gaoshenghk.com/uploads/detail8-211.jpg)
+
+![detail8 (22)](https://www.gaoshenghk.com/uploads/detail8-22.jpg)
+
+![detail8 (23)](https://www.gaoshenghk.com/uploads/detail8-23.jpg)
+
+![detail8 (24)](https://www.gaoshenghk.com/uploads/detail8-24.jpg)
+
+## 会社紹介
+![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+
+1988年に設立され、30年以上のオフィスチェア製造経験を持ち、業界をリードする企業の一つに成長しました。射出成形工場、金型工場、椅子加工工場、木工工場を有し、強力な独自開発能力を備えており、お客様のサンプルや特定の図面に基づいて研究開発とサンプル製作が可能です。当社のすべての椅子は、米国BIFMA、Greenguard、SGS BS EN1335学校用書き込みボード椅子規格に準拠して製造されています。
+
+当社は中国広東省仏山市南海区西樵鎮西安工業区に位置しています。敷地面積は110,000平方メートル、従業員数は600名です。工場はISO9001:2000およびISO14001:2004認証を取得しています。製品は米国、日本、英国、オーストラリア、ドイツ、フランス、イタリア、オランダ、中東、スウェーデン、デンマーク、カナダ、中東、東南アジアなどの国や地域に輸出されています。

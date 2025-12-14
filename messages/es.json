@@ -412,7 +412,14 @@
     "formSubmit": "Enviar solicitud",
     "formSubmitting": "Enviando...",
     "formSuccess": "¡Mensaje enviado! Responderemos en un día hábil.",
-    "formError": "Error al enviar. Por favor, intente nuevamente más tarde."
+    "formError": "Error al enviar. Por favor, intente nuevamente más tarde.",
+    "floatingForm": {
+      "title": "Deje un mensaje",
+      "buttonLabel": "Dejar un mensaje",
+      "buttonText": "¡Deje un mensaje!",
+      "phoneLabel": "Teléfono / WhatsApp / WeChat",
+      "phonePlaceholder": "Ingrese su número de teléfono"
+    }
   }
 }
 

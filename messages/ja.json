@@ -412,7 +412,14 @@
     "formSubmit": "リクエストを送信",
     "formSubmitting": "送信中...",
     "formSuccess": "メッセージが送信されました！営業日1日以内に回答します。",
-    "formError": "送信に失敗しました。後でもう一度お試しください。"
+    "formError": "送信に失敗しました。後でもう一度お試しください。",
+    "floatingForm": {
+      "title": "メッセージを残す",
+      "buttonLabel": "メッセージを残す",
+      "buttonText": "メッセージを残す！",
+      "phoneLabel": "電話 / WhatsApp / WeChat",
+      "phonePlaceholder": "電話番号を入力してください"
+    }
   }
 }
 

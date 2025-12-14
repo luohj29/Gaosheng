@@ -3,6 +3,7 @@ import Navbar from '@/src/components/@navbar';
 import {NextIntlClientProvider} from 'next-intl';
 import {notFound} from 'next/navigation';
 import ContactInfo from '@/src/components/contact_info';
+import FloatingContactForm from '@/src/components/FloatingContactForm';
 import {getTranslations} from 'next-intl/server';
 import type {Metadata} from 'next';
 
@@ -49,6 +50,7 @@ export default async function RootLayout({children, params}: Props) {
           <Navbar locale={locale} />
           <main>{children}</main>
           <ContactInfo />
+          <FloatingContactForm />
           <Footer locale={locale} />
         </NextIntlClientProvider>
       </body>

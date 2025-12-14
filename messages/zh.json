@@ -412,6 +412,13 @@
     "formSubmit": "提交需求",
     "formSubmitting": "发送中...",
     "formSuccess": "消息已发送！我们会在一个工作日内回复您。",
-    "formError": "发送失败，请稍后重试。"
+    "formError": "发送失败，请稍后重试。",
+    "floatingForm": {
+      "title": "留言",
+      "buttonLabel": "留言",
+      "buttonText": "留言！",
+      "phoneLabel": "电话 / WhatsApp / 微信",
+      "phonePlaceholder": "请输入您的电话号码"
+    }
   }
 }

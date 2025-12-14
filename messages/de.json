@@ -412,7 +412,14 @@
     "formSubmit": "Anfrage senden",
     "formSubmitting": "Wird gesendet...",
     "formSuccess": "Nachricht gesendet! Wir werden innerhalb eines Werktages antworten.",
-    "formError": "Fehler beim Senden. Bitte versuchen Sie es später erneut."
+    "formError": "Fehler beim Senden. Bitte versuchen Sie es später erneut.",
+    "floatingForm": {
+      "title": "Hinterlassen Sie eine Nachricht",
+      "buttonLabel": "Nachricht hinterlassen",
+      "buttonText": "Nachricht hinterlassen!",
+      "phoneLabel": "Telefon / WhatsApp / WeChat",
+      "phonePlaceholder": "Geben Sie Ihre Telefonnummer ein"
+    }
   }
 }
 

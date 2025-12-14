@@ -51,7 +51,7 @@ export default async function NewsPage(props: Props) {
                   )}
                 </div>
                 <div className="flex flex-[2] flex-col gap-3 justify-center">
-                  <h3 className="text-xl font-semibold text-gray-900 group-hover:text-[#00919E] transition-colors">
+                  <h3 className="text-xl font-semibold text-gray-900 group-hover:text-theme transition-colors">
                     {post.title}
                   </h3>
                   <p className="text-sm text-gray-600 line-clamp-3">{post.description}</p>

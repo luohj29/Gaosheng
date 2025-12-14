@@ -412,7 +412,14 @@
     "formSubmit": "إرسال الطلب",
     "formSubmitting": "جاري الإرسال...",
     "formSuccess": "تم إرسال الرسالة! سنرد في غضون يوم عمل واحد.",
-    "formError": "فشل الإرسال. يرجى المحاولة مرة أخرى لاحقًا."
+    "formError": "فشل الإرسال. يرجى المحاولة مرة أخرى لاحقًا.",
+    "floatingForm": {
+      "title": "اترك رسالة",
+      "buttonLabel": "اترك رسالة",
+      "buttonText": "اترك رسالة!",
+      "phoneLabel": "الهاتف / WhatsApp / WeChat",
+      "phonePlaceholder": "أدخل رقم هاتفك"
+    }
   }
 }
 

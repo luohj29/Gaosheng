@@ -2,9 +2,7 @@
 
 import {useState, FormEvent} from 'react';
 import {useTranslations} from 'next-intl';
-
-// 接收表单提交的邮箱地址 - 修改这里即可更改接收邮箱
-const RECIPIENT_EMAIL = '3133974071@qq.com';
+import {CONTACT_EMAIL} from '@/src/config/constants';
 
 export default function ContactForm() {
   const t = useTranslations('ContactPage');
@@ -31,7 +29,7 @@ export default function ContactForm() {
       formDataToSend.append('_template', 'box');
       formDataToSend.append('_captcha', 'false');
 
-      const response = await fetch(`https://formsubmit.co/ajax/${RECIPIENT_EMAIL}`, {
+      const response = await fetch(`https://formsubmit.co/ajax/${CONTACT_EMAIL}`, {
         method: 'POST',
         body: formDataToSend,
         headers: {

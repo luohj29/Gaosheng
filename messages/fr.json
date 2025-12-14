@@ -412,7 +412,14 @@
     "formSubmit": "Envoyer la demande",
     "formSubmitting": "Envoi...",
     "formSuccess": "Message envoyé ! Nous répondrons dans un jour ouvrable.",
-    "formError": "Échec de l'envoi. Veuillez réessayer plus tard."
+    "formError": "Échec de l'envoi. Veuillez réessayer plus tard.",
+    "floatingForm": {
+      "title": "Laissez un message",
+      "buttonLabel": "Laissez un message",
+      "buttonText": "Laissez un message !",
+      "phoneLabel": "Téléphone / WhatsApp / WeChat",
+      "phonePlaceholder": "Entrez votre numéro de téléphone"
+    }
   }
 }
 

@@ -1,19 +1,10 @@
 import {getTranslations} from 'next-intl/server';
 import ContactForm from '@/src/components/ContactForm';
 import Image from 'next/image';
+import {CONTACT_INFO} from '@/src/config/constants';
 
 type Props = {
   params: Promise<{locale: string}>;
-};
-
-// 硬编码的联系信息
-const CONTACT_INFO = {
-  phone: '00852-53008243',
-  phone2: '+86-13702827856',
-  email: 'officefurniture1@gaoshenghk.com',
-  address: 'Room 4, 16/f, Ho King Commercial Centre, 2-16 Fayuen Street, Mongkok Kowloon, Hong Kong',
-  wechatQR: '/contact/wechat.webp',
-  whatsappQR: '/contact/whatsapp.webp',
 };
 
 const channelKeys = ['consultation', 'showroom', 'partnership'] as const;

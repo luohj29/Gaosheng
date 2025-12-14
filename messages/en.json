@@ -412,6 +412,13 @@
     "formSubmit": "Send request",
     "formSubmitting": "Sending...",
     "formSuccess": "Message sent! We will respond within one business day.",
-    "formError": "Failed to send. Please try again later."
+    "formError": "Failed to send. Please try again later.",
+    "floatingForm": {
+      "title": "Leave a Message",
+      "buttonLabel": "Leave a message",
+      "buttonText": "Leave A Message!",
+      "phoneLabel": "Phone / WhatsApp / WeChat",
+      "phonePlaceholder": "Enter your phone number"
+    }
   }
 }

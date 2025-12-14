@@ -47,7 +47,7 @@ export default async function ProductPage(props: Props) {
                 )}
               </div>
               <div className="flex flex-col gap-2">
-                <div className="text-xs font-semibold uppercase tracking-[0.3em] text-[#00919E]">
+                <div className="text-xs font-semibold uppercase tracking-[0.3em] text-theme">
                   {product.category}
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900 transition-colors text-color">

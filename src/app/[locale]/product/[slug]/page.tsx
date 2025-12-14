@@ -6,6 +6,7 @@ import rehypeRaw from 'rehype-raw';
 import Link from 'next/link';
 import ProductDetailCarousel from '@/src/components/ProductDetailCarousel';
 import { locales } from '@/src/i18n/config';
+import { CONTACT_INFO } from '@/src/config/constants';
 
 type Props = {
   params: Promise<{ locale: string; slug: string }>;
@@ -138,7 +139,7 @@ export default async function ProductDetailPage(props: Props) {
 
           <div>
             <a
-              href="mailto:officefurniture1@gaoshenghk.com"
+              href={`mailto:${CONTACT_INFO.email}`}
               className="inline-flex w-full items-center justify-center rounded-full bg-gray-900 px-8 py-4 text-base font-medium text-white transition-colors hover:bg-gray-800 md:w-auto"
             >
               Send Inquiry

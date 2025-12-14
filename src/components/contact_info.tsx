@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import {CONTACT_INFO} from '@/src/config/constants';
 
 type ContactItem = {
   id: string;
@@ -11,10 +12,10 @@ type ContactItem = {
 };
 
 const CONTACTS: ContactItem[] = [
-  { id: "wechat", icon: "/icon/wechat.webp", label: "WeChat", value: "/contact/wechat.webp", useImage: true },
-  { id: "phone", icon: "/icon/tel.webp", label: "Phone", value: "00852-53008243 \n+86-13702827856" },
-  { id: "whatsapp", icon: "/icon/whatsapp.webp", label: "WhatsApp", value: "/contact/whatsapp.webp", useImage: true },
-  { id: "email", icon: "/icon/email.webp", label: "Email", value: "officefurniture1@gaoshenghk.com" }
+  { id: "wechat", icon: "/icon/wechat.webp", label: "WeChat", value: CONTACT_INFO.wechatQR, useImage: true },
+  { id: "phone", icon: "/icon/tel.webp", label: "Phone", value: `${CONTACT_INFO.phone} \n${CONTACT_INFO.phone2}` },
+  { id: "whatsapp", icon: "/icon/whatsapp.webp", label: "WhatsApp", value: CONTACT_INFO.whatsappQR, useImage: true },
+  { id: "email", icon: "/icon/email.webp", label: "Email", value: CONTACT_INFO.email }
 ];
 
 export default function ContactInfo() {

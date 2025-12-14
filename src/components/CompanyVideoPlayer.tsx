@@ -53,7 +53,7 @@ export default function CompanyVideoPlayer({ videos }: Props) {
             onClick={() => setCurrentIndex(index)}
             className={`flex-1 w-full text-left px-3 py-2.5 rounded-lg transition-all duration-200 text-xs flex items-center
         ${currentIndex === index
-                ? 'bg-[#00919E] text-white shadow-md'
+                ? 'bg-theme text-white shadow-md'
                 : 'bg-white hover:bg-gray-100 text-gray-900 border border-black/10'
               }`}
           >

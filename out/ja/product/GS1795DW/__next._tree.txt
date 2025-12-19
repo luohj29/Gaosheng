@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/fdbda494ea930641.css","style"]
+:HL["/_next/static/chunks/1e1264d0a09c0089.css","style"]
 :HL["/_next/static/chunks/98b5b607de1b5c0e.css","style"]
 :HL["https://www.gaoshenghk.com/uploads/Folding-seat-stackable-school-chair-training-chair-with-writing-table-1.jpg%22","image"]
 :HL["https://cdnus.globalso.com/gaoshenghk/GS-104.jpg%22","image"]
@@ -28,4 +28,4 @@
 :HL["https://www.gaoshenghk.com/uploads/detail4-25.jpg%22","image"]
 :HL["https://www.gaoshenghk.com/uploads/detail1_241.jpg%22","image"]
 :HL["/icon/logo.webp","image"]
-0:{"buildId":"PPBO3H1UOBvChFruE43Pc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"locale","paramType":"d","paramKey":"ja","hasRuntimePrefetch":false,"slots":{"children":{"name":"product","paramType":null,"paramKey":"product","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"GS1795DW","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"t1F38GEfypmKQ3Zv9ET4J","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"locale","paramType":"d","paramKey":"ja","hasRuntimePrefetch":false,"slots":{"children":{"name":"product","paramType":null,"paramKey":"product","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"GS1795DW","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

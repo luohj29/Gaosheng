@@ -18,7 +18,7 @@ variants:
   - "/images/GT1/GT1-WTY-C front.webp"
   - "/images/GT1/GT1-WTY-R.webp"
   - "/images/GT1/GT1-WTY-R front.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT1.mp4"
+videoUrl: "/videos/GT1.mp4"
 category: "General/Negocios"
 features:
   - "Certificado: BIFMA"
@@ -27,7 +27,7 @@ features:
 
 ## Silla de oficina ergonómica de respaldo alto con diseño original
 
-[![Imagen destacada de la silla de oficina ergonómica de respaldo alto con diseño original](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)
+![Original design ergonomic high back office chair Featured Image](/images/GT1/Original-design-ergonomic-high-back-office-chair-1.jpg)
 
 
 
@@ -36,24 +36,24 @@ features:
 
 ![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
 
-![detail8 (1)](https://www.gaoshenghk.com/uploads/detail8-11.jpg)
+![detail8 (1)](/images/GT1/detail8-11.jpg)
 ### Serie GT: Diseño Original
-![detail8 (2)](https://www.gaoshenghk.com/uploads/detail8-21.jpg)
+![detail8 (2)](/images/GT1/detail8-21.jpg)
 ### GAOSHENG: fabricante con más de 30 años de experiencia
-![detail8 (3)](https://www.gaoshenghk.com/uploads/detail8-31.jpg)
+![detail8 (3)](/images/GT1/detail8-31.jpg)
 ### TOYO: fabricante con más de 60 años de experiencia
-![detail8 (4)](https://www.gaoshenghk.com/uploads/detail8-4.jpg)
+![detail8 (4)](/images/GT1/detail8-4.jpg)
 ## Serie GT1: disponible en tipo respaldo medio y tipo tela.
 El respaldo permite una relajación suficiente, como una planta que respira en la naturaleza, aliviando la fatiga por estar sentado mucho tiempo. GT es la silla que trabaja para ti. Combina funcionalidad y diseño en uno. Disponible en estructuras negras o blancas, aporta un toque de elegancia y exclusividad, acercando al usuario y la naturaleza.
-![detail8 (5)](https://www.gaoshenghk.com/uploads/detail8-5.jpg)
+![detail8 (5)](/images/GT1/detail8-5.jpg)
 ### El cojín transpirable de una pieza 3D ayuda para largas horas sentado.
-![detail8 (6)](https://www.gaoshenghk.com/uploads/detail8-6.jpg)
+![detail8 (6)](/images/GT1/detail8-6.jpg)
 ## Funciones de la Serie GT
-![detail8 (7)](https://www.gaoshenghk.com/uploads/detail8-7.jpg)
+![detail8 (7)](/images/GT1/detail8-7.jpg)
 
-![detail8 (8)](https://www.gaoshenghk.com/uploads/detail8-8.jpg)
+![detail8 (8)](/images/GT1/detail8-8.jpg)
 
-![detail8 (9)](https://www.gaoshenghk.com/uploads/detail8-9.jpg)
+![detail8 (9)](/images/GT1/detail8-9.jpg)
 
 ## Especificaciones:
 +   CERTIFICADO BIFMA APROBADO:
@@ -67,7 +67,7 @@ El respaldo permite una relajación suficiente, como una planta que respira en l
 +   8, Elevador de gas: Elevador de gas KGS 100\*80#, vida útil de 120000 ciclos de subida y bajada, aprobado SGS;
 +   9, Ruedas: Ruedas de PU (diámetro: 60mm), pasan prueba de resistencia de 50000 ciclos y prueba de fatiga de 50000 ciclos, aprobadas BIFMA;
 
-![detail8 (10)](https://www.gaoshenghk.com/uploads/detail8-10.jpg)
+![detail8 (10)](/images/GT1/detail8-10.jpg)
 ### A-Puedes usar la palanca en la parte inferior derecha para ajustar la altura del asiento.
 
 ### B-Puedes usar la palanca en la parte inferior izquierda para configurar el reclinable para que se mueva libremente con el movimiento de tu cuerpo.
@@ -101,23 +101,23 @@ Almohadilla del brazo de espuma PU integral en color negro estándar, moldeada s
 
 ## Certificado BIFMA Aprobado:
 ### La estructura pasó la prueba profesional del Estándar de Oficina BIFMA
-![detail8 (11)](https://www.gaoshenghk.com/uploads/detail8-111.jpg)
+![detail8 (11)](/images/GT1/detail8-111.jpg)
 
-![detail8 (12)](https://www.gaoshenghk.com/uploads/detail8-12.jpg)
+![detail8 (12)](/images/GT1/detail8-12.jpg)
 
-![detail8 (13)](https://www.gaoshenghk.com/uploads/detail8-13.jpg)
+![detail8 (13)](/images/GT1/detail8-13.jpg)
 
 ## Opciones de Color
-![detail8 (14)](https://www.gaoshenghk.com/uploads/detail8-14.jpg)
+![detail8 (14)](/images/GT1/detail8-14.jpg)
 
-![detail8 (15)](https://www.gaoshenghk.com/uploads/detail8-15.jpg)
+![detail8 (15)](/images/GT1/detail8-15.jpg)
 
-![detail8 (16)](https://www.gaoshenghk.com/uploads/detail8-16.jpg)
+![detail8 (16)](/images/GT1/detail8-16.jpg)
 
 ## Embalaje:
-![detail8 (17)](https://www.gaoshenghk.com/uploads/detail8-17.jpg)
+![detail8 (17)](/images/GT1/detail8-17.jpg)
 
-![detail8 (18)](https://www.gaoshenghk.com/uploads/detail8-18.jpg)
+![detail8 (18)](/images/GT1/detail8-18.jpg)
 Embalaje utilizado: Cartón estándar de exportación 5-capas K5=K5 (250 libras), o se aceptan requisitos de embalaje especial.
 Tamaño del cartón: 32.68*27.17*19.69 pulgadas (1 pieza/ctn)
 CBM: 0.29
@@ -125,20 +125,20 @@ Peso bruto: 26 KGS
 
 ## Fotos de proyectos:
 ### GT1 se puede usar en estaciones de trabajo de oficina, hospitales, escuelas.
-![detail8 (19)](https://www.gaoshenghk.com/uploads/detail8-19.jpg)
+![detail8 (19)](/images/GT1/detail8-19.jpg)
 
-![detail8 (20)](https://www.gaoshenghk.com/uploads/detail8-20.jpg)
+![detail8 (20)](/images/GT1/detail8-20.jpg)
 
-![detail8 (21)](https://www.gaoshenghk.com/uploads/detail8-211.jpg)
+![detail8 (21)](/images/GT1/detail8-211.jpg)
 
-![detail8 (22)](https://www.gaoshenghk.com/uploads/detail8-22.jpg)
+![detail8 (22)](/images/GT1/detail8-22.jpg)
 
-![detail8 (23)](https://www.gaoshenghk.com/uploads/detail8-23.jpg)
+![detail8 (23)](/images/GT1/detail8-23.jpg)
 
-![detail8 (24)](https://www.gaoshenghk.com/uploads/detail8-24.jpg)
+![detail8 (24)](/images/GT1/detail8-24.jpg)
 
 ## Introducción de la Empresa
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT1/detail1_241.jpg)
 
 Fundada en 1988, la empresa tiene más de 30 años de experiencia en la producción de sillas de oficina y se ha desarrollado hasta convertirse en una de las empresas líderes en la industria. Contamos con taller de moldes de inyección, taller de hardware, taller de procesamiento de sillas, taller de madera, con una fuerte capacidad de desarrollo independiente, podemos investigar y hacer muestras según las muestras de los clientes y planos específicos. Todas nuestras sillas se producen de acuerdo con los estándares estadounidenses BIFMA, Greenguard, SGS BS EN1335 para sillas de escritorio escolar.
 

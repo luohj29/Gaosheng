@@ -1,0 +1,16 @@
+language:
+  - english
+  - french
+  - german
+  - arabic
+  - spanish
+
+translator:
+  api_url: "https://api.openai.com/v1/chat/completions"
+  api_key: ""  # 请在此处填入您的API密钥
+  model: "gpt-3.5-turbo"
+  headers:
+    Content-Type: "application/json"
+    Authorization: "Bearer {api_key}"  # {api_key}会被自动替换
+  timeout: 30  # 请求超时时间（秒）
+  

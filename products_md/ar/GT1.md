@@ -18,7 +18,7 @@ variants:
   - "/images/GT1/GT1-WTY-C front.webp"
   - "/images/GT1/GT1-WTY-R.webp"
   - "/images/GT1/GT1-WTY-R front.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT1.mp4"
+videoUrl: "/videos/GT1.mp4"
 category: "عام/أعمال"
 features:
   - "الشهادة: BIFMA"
@@ -27,7 +27,7 @@ features:
 
 ## كرسي مكتبي عالي الظهر مريح بتصميم أصلي
 
-[![صورة مميزة لكرسي مكتبي عالي الظهر مريح بتصميم أصلي](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)
+![Original design ergonomic high back office chair Featured Image](/images/GT1/Original-design-ergonomic-high-back-office-chair-1.jpg)
 
 
 
@@ -36,24 +36,24 @@ features:
 
 ![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
 
-![تفاصيل8 (1)](https://www.gaoshenghk.com/uploads/detail8-11.jpg)
+![تفاصيل8 (1)](/images/GT1/detail8-11.jpg)
 ### سلسلة GT: تصميم أصلي
-![تفاصيل8 (2)](https://www.gaoshenghk.com/uploads/detail8-21.jpg)
+![تفاصيل8 (2)](/images/GT1/detail8-21.jpg)
 ### غاو شينغ: شركة مصنعة بخبرة تزيد عن 30 عامًا
-![تفاصيل8 (3)](https://www.gaoshenghk.com/uploads/detail8-31.jpg)
+![تفاصيل8 (3)](/images/GT1/detail8-31.jpg)
 ### TOYO: شركة مصنعة بخبرة تزيد عن 60 عامًا
-![تفاصيل8 (4)](https://www.gaoshenghk.com/uploads/detail8-4.jpg)
+![تفاصيل8 (4)](/images/GT1/detail8-4.jpg)
 ## سلسلة GT1: تتوفر بنوع ظهر متوسط ونوع قماش.
 الظهر مصمم للاسترخاء الكافي، تمامًا مثل تنفس النبات في الطبيعة، مما يخفف من إرهاق الجلوس الطويل للجسم البشري. GT هو الكرسي الذي يعمل من أجلك. يجمع بين الوظائف والتصميم في واحد. متوفر بإطارات سوداء أو بيضاء، مما يمنح لمسة من الأناقة والتميز، ويقرّب المستخدم من الطبيعة.
-![تفاصيل8 (5)](https://www.gaoshenghk.com/uploads/detail8-5.jpg)
+![تفاصيل8 (5)](/images/GT1/detail8-5.jpg)
 ### وسادة واحدة ثلاثية الأبعاد قابلة للتنفس تساعد على الجلوس لساعات طويلة.
-![تفاصيل8 (6)](https://www.gaoshenghk.com/uploads/detail8-6.jpg)
+![تفاصيل8 (6)](/images/GT1/detail8-6.jpg)
 ## وظائف سلسلة GT
-![تفاصيل8 (7)](https://www.gaoshenghk.com/uploads/detail8-7.jpg)
+![تفاصيل8 (7)](/images/GT1/detail8-7.jpg)
 
-![تفاصيل8 (8)](https://www.gaoshenghk.com/uploads/detail8-8.jpg)
+![تفاصيل8 (8)](/images/GT1/detail8-8.jpg)
 
-![تفاصيل8 (9)](https://www.gaoshenghk.com/uploads/detail8-9.jpg)
+![تفاصيل8 (9)](/images/GT1/detail8-9.jpg)
 
 ## المواصفات:
 +   حاصل على شهادة BIFMA:
@@ -67,7 +67,7 @@ features:
 +   8، رافعة الغاز: رافعة غاز KGS 100\*80#، عمرها الافتراضي 120000 مرة صعودًا وهبوطًا، معتمدة من SGS؛
 +   9، العجلات: عجلات PU (قطر: 60 مم)، اجتازت اختبار مقاومة 50000 مرة واختبار إجهاد 50000 مرة، معتمدة من BIFMA؛
 
-![تفاصيل8 (10)](https://www.gaoshenghk.com/uploads/detail8-10.jpg)
+![تفاصيل8 (10)](/images/GT1/detail8-10.jpg)
 ### أ- يمكنك استخدام الرافعة في الأسفل يمينًا لضبط ارتفاع المقعد.
 
 ### ب- يمكنك استخدام الرافعة في الأسفل يسارًا إما لضبط الكرسي المتحرك بحيث يتحرك بحرية مع حركة جسمك.
@@ -102,23 +102,23 @@ features:
 
 ## حاصل على شهادة BIFMA:
 ### الهيكل اجتاز اختبار معيار المكتب المحترف BIFMA
-![تفاصيل8 (11)](https://www.gaoshenghk.com/uploads/detail8-111.jpg)
+![تفاصيل8 (11)](/images/GT1/detail8-111.jpg)
 
-![تفاصيل8 (12)](https://www.gaoshenghk.com/uploads/detail8-12.jpg)
+![تفاصيل8 (12)](/images/GT1/detail8-12.jpg)
 
-![تفاصيل8 (13)](https://www.gaoshenghk.com/uploads/detail8-13.jpg)
+![تفاصيل8 (13)](/images/GT1/detail8-13.jpg)
 
 ## خيارات الألوان
-![تفاصيل8 (14)](https://www.gaoshenghk.com/uploads/detail8-14.jpg)
+![تفاصيل8 (14)](/images/GT1/detail8-14.jpg)
 
-![تفاصيل8 (15)](https://www.gaoshenghk.com/uploads/detail8-15.jpg)
+![تفاصيل8 (15)](/images/GT1/detail8-15.jpg)
 
-![تفاصيل8 (16)](https://www.gaoshenghk.com/uploads/detail8-16.jpg)
+![تفاصيل8 (16)](/images/GT1/detail8-16.jpg)
 
 ## التغليف:
-![تفاصيل8 (17)](https://www.gaoshenghk.com/uploads/detail8-17.jpg)
+![تفاصيل8 (17)](/images/GT1/detail8-17.jpg)
 
-![تفاصيل8 (18)](https://www.gaoshenghk.com/uploads/detail8-18.jpg)
+![تفاصيل8 (18)](/images/GT1/detail8-18.jpg)
 استخدام التغليف: كرتون 5 طبقات K5=K5 معيار التصدير (250 رطل)، أو متطلبات تغليف خاصة مقبولة.
 مقاس الكرتون: 32.68*27.17*19.69 بوصة (1 قطعة/كرتون)
 CBM: 0.29
@@ -126,20 +126,20 @@ CBM: 0.29
 
 ## صور المشروع:
 ### يمكن استخدام GT1 في محطات العمل المكتبية، المستشفيات، المدارس.
-![تفاصيل8 (19)](https://www.gaoshenghk.com/uploads/detail8-19.jpg)
+![تفاصيل8 (19)](/images/GT1/detail8-19.jpg)
 
-![تفاصيل8 (20)](https://www.gaoshenghk.com/uploads/detail8-20.jpg)
+![تفاصيل8 (20)](/images/GT1/detail8-20.jpg)
 
-![تفاصيل8 (21)](https://www.gaoshenghk.com/uploads/detail8-211.jpg)
+![تفاصيل8 (21)](/images/GT1/detail8-211.jpg)
 
-![تفاصيل8 (22)](https://www.gaoshenghk.com/uploads/detail8-22.jpg)
+![تفاصيل8 (22)](/images/GT1/detail8-22.jpg)
 
-![تفاصيل8 (23)](https://www.gaoshenghk.com/uploads/detail8-23.jpg)
+![تفاصيل8 (23)](/images/GT1/detail8-23.jpg)
 
-![تفاصيل8 (24)](https://www.gaoshenghk.com/uploads/detail8-24.jpg)
+![تفاصيل8 (24)](/images/GT1/detail8-24.jpg)
 
 ## مقدمة عن الشركة
-![تفاصيل1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![تفاصيل1_24](/images/GT1/detail1_241.jpg)
 
 تأسست الشركة عام 1988، ولديها أكثر من 30 عامًا من الخبرة في إنتاج الكراسي المكتبية وتطورت لتصبح واحدة من الشركات الرائدة في الصناعة. لدينا ورشة قوالب الحقن، ورشة الأجهزة، ورشة معالجة الكراسي، ورشة الخشب، مع قدرة تطوير مستقلة قوية، يمكننا البحث وصنع عينات وفقًا لعينات العملاء والرسومات المحددة، جميع كراسينا مصنوعة وفقًا لمعايير BIFMA الأمريكية، Greenguard، SGS BS EN1335 لكراسي سبورة المدارس.
 

@@ -18,7 +18,7 @@ variants:
   - "/images/GT3/GT3A黑无扶手.webp"
   - "/images/GT3/GT3A All black.webp"
   - "/images/GT3/GT3A office chair project show.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT3A.mp4"
+videoUrl: "/videos/GT3.mp4"
 category: "General/Office"
 features:
   - "Certificate : BIFMA"
@@ -26,20 +26,20 @@ features:
 ---
 ## Ergonomic 2D armrest tilt and lock office chair task chair
 
-[![Ergonomic 2D armrest tilt and lock office chair task chair Featured Image](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
+![Ergonomic 2D armrest tilt and lock office chair task chair Featured Image](/images/GT3/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
 
 
 
 ## Product Detail
 
 
-![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
+![](/images/GT3/GS-104.jpg)
 Feature: GT3A-Self Weight Tilt Mechanism
 Application: Office environment, hotel reception room, guest room, school education space.
 Advantage:  Ergonomic office chair.
 
 ## Design concept:
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.jpg)
+![detail10 (1)](/images/GT3/detail10-1.jpg)
 
 ## 3D Plastic backrest
 - Integrated molding.
@@ -51,14 +51,14 @@ Vertical radians provide backrest support
 ### B point
 Horizontal radians provide waist support
 
-![detail10 (2)](https://www.gaoshenghk.com/uploads/detail10-2.jpg)
+![detail10 (2)](/images/GT3/detail10-2.jpg)
 
-![detail10 (3)](https://www.gaoshenghk.com/uploads/detail10-3.jpg)
+![detail10 (3)](/images/GT3/detail10-3.jpg)
 A inscription in the lumbar area designed for greater comfort for the users back, inspired by geometric figures of bionics or 3D technology.
 
 ## Triangel Metal Tube Support Ergonomic Backrest
 3 Point triangle metal tube support design,strong backrest support. Inside set 5mm iron plate to make backrest more stronger.
-![detail10 (4)](https://www.gaoshenghk.com/uploads/detail10-4.jpg)
+![detail10 (4)](/images/GT3/detail10-4.jpg)
 GT3A is not only a comfortable office chair,but also an artwork.It’s personality of performance with colorful seat cushion and ergonomically perforated backrest.
 
 ## Specification:
@@ -72,46 +72,46 @@ GT3A is not only a comfortable office chair,but also an artwork.It’s personali
 8. Caster: Dia 50mm nylon caster, BIFMA approval.
 
 ## Functions:
-![detail10-(5)](https://www.gaoshenghk.com/uploads/detail10-5.jpg)
+![detail10-(5)](/images/GT3/detail10-5.jpg)
 Seat height&height adjustable
 
-![detail10-(6)](https://www.gaoshenghk.com/uploads/detail10-6.jpg)
+![detail10-(6)](/images/GT3/detail10-6.jpg)
 Self weight tilt mechanism, Tilt&locking function
 
-![detail10-(11)](https://www.gaoshenghk.com/uploads/detail10-11.jpg)
+![detail10-(11)](/images/GT3/detail10-11.jpg)
 2D armrest, up and down and locking position function
 
-![detail10-(9)](https://www.gaoshenghk.com/uploads/detail10-9.jpg)
+![detail10-(9)](/images/GT3/detail10-9.jpg)
 360 Degree swivel function
 
-![detail10-(10)](https://www.gaoshenghk.com/uploads/detail10-10.jpg)
+![detail10-(10)](/images/GT3/detail10-10.jpg)
 Smooth swivel, silence
 
 ## Self Weight Tilt Mechanismis Introduction:
 Self weight tilt mechanismis a new mechanism,The mechanism can tilt according to people’s weight, it is very  comfortable,when you lie on your back,it can tilt very easily according to your weight, Locking at 2 position.
-![detail10 (8)](https://www.gaoshenghk.com/uploads/detail10-8.jpg)
+![detail10 (8)](/images/GT3/detail10-8.jpg)
 
 ## Pass BIFMA Certificate:
-![detail10 (9)](https://www.gaoshenghk.com/uploads/detail10-91.jpg)
+![detail10 (9)](/images/GT3/detail10-91.jpg)
 
 Color Swatch: Backrest
 Plastic color: Black or White PP
-![detail10 (10)](https://www.gaoshenghk.com/uploads/detail10-101.jpg)
+![detail10 (10)](/images/GT3/detail10-101.jpg)
 
 ## Size:
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.png)
+![detail10 (1)](/images/GT3/detail10-1.png)
 
 ## Project photos:
-![detail10 (11)](https://www.gaoshenghk.com/uploads/detail10-111.jpg)
+![detail10 (11)](/images/GT3/detail10-111.jpg)
 
-![detail10 (12)](https://www.gaoshenghk.com/uploads/detail10-12.jpg)
+![detail10 (12)](/images/GT3/detail10-12.jpg)
 
-![detail10 (13)](https://www.gaoshenghk.com/uploads/detail10-13.jpg)
+![detail10 (13)](/images/GT3/detail10-13.jpg)
 
-![detail10 (14)](https://www.gaoshenghk.com/uploads/detail10-14.jpg)
+![detail10 (14)](/images/GT3/detail10-14.jpg)
 
 ## Company Introduction
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT3/detail1_241.jpg)
 
 Founded in 1988, the company has more than 30 years of experience in the production of office chairs and has developed into one of the leading enterprises in the industry. We have injection mold workshop, hardware workshop, chair processing workshop, wood workshop, with strong independent development ability, we can research and make samples according to customers' samples and specific drawings, All of our chairs are produced in accordance with American BIFMA,Greenguard,SGS BS EN1335 standards for school writing board chairs.
 

@@ -1,8 +1,0 @@
-1:"$Sreact.fragment"
-2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
-4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
-5:"$Sreact.suspense"
-7:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
-0:{"buildId":"t1F38GEfypmKQ3Zv9ET4J","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
-3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-6:[["$","title","0",{"children":"办公椅、学生椅、节点椅、商务椅 - 高晟"}],["$","meta","1",{"name":"description","content":"香港高晟国际有限公司 - 拥有35年经验的现代办公家具解决方案。优质人体工学办公椅、任务椅和办公桌。"}],["$","meta","2",{"property":"og:title","content":"办公椅、学生椅、节点椅、商务椅 - 高晟"}],["$","meta","3",{"property":"og:description","content":"香港高晟国际有限公司 - 拥有35年经验的现代办公家具解决方案。优质人体工学办公椅、任务椅和办公桌。"}],["$","meta","4",{"property":"og:site_name","content":"高晟国际"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"办公椅、学生椅、节点椅、商务椅 - 高晟"}],["$","meta","8",{"name":"twitter:description","content":"香港高晟国际有限公司 - 拥有35年经验的现代办公家具解决方案。优质人体工学办公椅、任务椅和办公桌。"}],["$","link","9",{"rel":"icon","href":"/favicon.ico?favicon.3dc746c9.ico","sizes":"60x60","type":"image/x-icon"}],["$","link","10",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon"}],["$","$L7","11",{}]]

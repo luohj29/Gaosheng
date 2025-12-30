@@ -18,7 +18,7 @@ variants:
   - "/images/GT1/GT1-WTY-C front.webp"
   - "/images/GT1/GT1-WTY-R.webp"
   - "/images/GT1/GT1-WTY-R front.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT1.mp4"
+videoUrl: "/videos/GT1.mp4"
 category: "Allgemein/Büro"
 features:
   - "Zertifikat : BIFMA"
@@ -27,7 +27,7 @@ features:
 
 ## Ergonomischer Hochlehnen-Bürostuhl im Originaldesign
 
-[![Ergonomischer Hochlehnen-Bürostuhl im Originaldesign Hauptbild](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)
+![Original design ergonomic high back office chair Featured Image](/images/GT1/Original-design-ergonomic-high-back-office-chair-1.jpg)
 
 
 
@@ -36,24 +36,24 @@ features:
 
 ![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
 
-![detail8 (1)](https://www.gaoshenghk.com/uploads/detail8-11.jpg)
+![detail8 (1)](/images/GT1/detail8-11.jpg)
 ### GT Serie: Originaldesign
-![detail8 (2)](https://www.gaoshenghk.com/uploads/detail8-21.jpg)
+![detail8 (2)](/images/GT1/detail8-21.jpg)
 ### GAOSHENG: Hersteller mit über 30 Jahren Erfahrung
-![detail8 (3)](https://www.gaoshenghk.com/uploads/detail8-31.jpg)
+![detail8 (3)](/images/GT1/detail8-31.jpg)
 ### TOYO: Hersteller mit über 60 Jahren Erfahrung
-![detail8 (4)](https://www.gaoshenghk.com/uploads/detail8-4.jpg)
+![detail8 (4)](/images/GT1/detail8-4.jpg)
 ## GT1 Serie: Verfügbar als Mittelrücken-Typ und Stoff-Typ.
 Die Rückenlehne ermöglicht ausreichende Entspannung, ähnlich wie eine Pflanze in der Natur atmet, und lindert die Ermüdung durch langes Sitzen. GT ist der Stuhl, der für Sie arbeitet. Er vereint Funktion und Design in einem. Erhältlich mit schwarzem oder weißem Gestell, verleiht er einen Hauch von Eleganz und Exklusivität und bringt den Nutzer näher an die Natur.
-![detail8 (5)](https://www.gaoshenghk.com/uploads/detail8-5.jpg)
+![detail8 (5)](/images/GT1/detail8-5.jpg)
 ### Das 3D-atmungsaktive Einteil-Polster unterstützt langes Sitzen.
-![detail8 (6)](https://www.gaoshenghk.com/uploads/detail8-6.jpg)
+![detail8 (6)](/images/GT1/detail8-6.jpg)
 ## GT Serie Funktionen
-![detail8 (7)](https://www.gaoshenghk.com/uploads/detail8-7.jpg)
+![detail8 (7)](/images/GT1/detail8-7.jpg)
 
-![detail8 (8)](https://www.gaoshenghk.com/uploads/detail8-8.jpg)
+![detail8 (8)](/images/GT1/detail8-8.jpg)
 
-![detail8 (9)](https://www.gaoshenghk.com/uploads/detail8-9.jpg)
+![detail8 (9)](/images/GT1/detail8-9.jpg)
 
 ## Spezifikation:
 +   BIFMA-Zertifikat bestanden:
@@ -67,7 +67,7 @@ Die Rückenlehne ermöglicht ausreichende Entspannung, ähnlich wie eine Pflanze
 +   8, Gasfeder: KGS 100\*80# Gasfeder, Lebensdauer 120.000 Auf- und Abbewegungen, SGS-zugelassen;
 +   9, Rollen: PU-Rollen (Durchmesser: 60mm), bestanden 50.000 Widerstandstests und 50.000 Ermüdungstests, BIFMA-zugelassen;
 
-![detail8 (10)](https://www.gaoshenghk.com/uploads/detail8-10.jpg)
+![detail8 (10)](/images/GT1/detail8-10.jpg)
 ### A-Sie können den Hebel unten rechts verwenden, um die Sitzhöhe einzustellen.
 
 ### B-Sie können den Hebel unten links verwenden, um die Rückenlehne entweder frei mit Ihrer Körperbewegung mitgehen zu lassen.
@@ -101,23 +101,23 @@ Armauflage aus integralem PU-Schaum in Standard-Schwarz, über eine PP-Schale ge
 
 ## BIFMA-Zertifikat bestanden:
 ### Die Struktur bestand den professionellen Bürostandard-BIFMA-Test
-![detail8 (11)](https://www.gaoshenghk.com/uploads/detail8-111.jpg)
+![detail8 (11)](/images/GT1/detail8-111.jpg)
 
-![detail8 (12)](https://www.gaoshenghk.com/uploads/detail8-12.jpg)
+![detail8 (12)](/images/GT1/detail8-12.jpg)
 
-![detail8 (13)](https://www.gaoshenghk.com/uploads/detail8-13.jpg)
+![detail8 (13)](/images/GT1/detail8-13.jpg)
 
 ## Farboptionen
-![detail8 (14)](https://www.gaoshenghk.com/uploads/detail8-14.jpg)
+![detail8 (14)](/images/GT1/detail8-14.jpg)
 
-![detail8 (15)](https://www.gaoshenghk.com/uploads/detail8-15.jpg)
+![detail8 (15)](/images/GT1/detail8-15.jpg)
 
-![detail8 (16)](https://www.gaoshenghk.com/uploads/detail8-16.jpg)
+![detail8 (16)](/images/GT1/detail8-16.jpg)
 
 ## Verpackung:
-![detail8 (17)](https://www.gaoshenghk.com/uploads/detail8-17.jpg)
+![detail8 (17)](/images/GT1/detail8-17.jpg)
 
-![detail8 (18)](https://www.gaoshenghk.com/uploads/detail8-18.jpg)
+![detail8 (18)](/images/GT1/detail8-18.jpg)
 Verpackung: 5-lagiger K5=K5 Exportstandard (250 Pfund) Karton, oder spezielle Verpackungsanforderungen sind akzeptabel.
 Kartongröße: 32,68*27,17*19,69 Zoll (1 Stück/Karton)
 CBM: 0,29
@@ -125,20 +125,20 @@ Bruttogewicht: 26 KG
 
 ## Projektfotos:
 ### GT1 kann in Büro-Arbeitsplätzen, Krankenhäusern, Schulen verwendet werden.
-![detail8 (19)](https://www.gaoshenghk.com/uploads/detail8-19.jpg)
+![detail8 (19)](/images/GT1/detail8-19.jpg)
 
-![detail8 (20)](https://www.gaoshenghk.com/uploads/detail8-20.jpg)
+![detail8 (20)](/images/GT1/detail8-20.jpg)
 
-![detail8 (21)](https://www.gaoshenghk.com/uploads/detail8-211.jpg)
+![detail8 (21)](/images/GT1/detail8-211.jpg)
 
-![detail8 (22)](https://www.gaoshenghk.com/uploads/detail8-22.jpg)
+![detail8 (22)](/images/GT1/detail8-22.jpg)
 
-![detail8 (23)](https://www.gaoshenghk.com/uploads/detail8-23.jpg)
+![detail8 (23)](/images/GT1/detail8-23.jpg)
 
-![detail8 (24)](https://www.gaoshenghk.com/uploads/detail8-24.jpg)
+![detail8 (24)](/images/GT1/detail8-24.jpg)
 
 ## Firmenvorstellung
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT1/detail1_241.jpg)
 
 Gegründet 1988, verfügt das Unternehmen über mehr als 30 Jahre Erfahrung in der Produktion von Bürostühlen und hat sich zu einem der führenden Unternehmen der Branche entwickelt. Wir haben eine Spritzguss-Werkstatt, eine Metallwaren-Werkstatt, eine Stuhlverarbeitungs-Werkstatt, eine Holz-Werkstatt, mit starker eigenständiger Entwicklungsfähigkeit. Wir können nach Kundenmustern und spezifischen Zeichnungen forschen und Muster anfertigen. Alle unsere Stühle werden gemäß den amerikanischen BIFMA-, Greenguard-, SGS BS EN1335-Standards für Schul-Schreibtischstühle produziert.
 

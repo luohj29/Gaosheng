@@ -18,7 +18,7 @@ variants:
   - "/images/GT3/GT3A黑无扶手.webp"
   - "/images/GT3/GT3A All black.webp"
   - "/images/GT3/GT3A office chair project show.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT3A.mp4"
+videoUrl: "/videos/GT3.mp4"
 category: "Allgemein/Büro"
 features:
   - "Zertifikat: BIFMA"
@@ -26,7 +26,7 @@ features:
 ---
 ## Ergonomischer 2D-Armlehnen-Neigungs- und Verstellfunktion Bürodrehstuhl
 
-[![Ergonomischer 2D-Armlehnen-Neigungs- und Verstellfunktion Bürodrehstuhl Hauptbild](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
+![Ergonomischer 2D-Armlehnen-Neigungs- und Verstellfunktion Bürodrehstuhl Hauptbild](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)(/images/GT3/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
 
 
 
@@ -39,7 +39,7 @@ Anwendung: Büroumgebung, Hotel-Empfangsbereich, Gästezimmer, Bildungsräume.
 Vorteil: Ergonomischer Bürostuhl.
 
 ## Designkonzept:
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.jpg)
+![detail10 (1)](/images/GT3/detail10-1.jpg)
 
 ## 3D-Kunststoff-Rückenlehne
 - Integriert geformt.
@@ -51,14 +51,14 @@ Vertikale Radien bieten Rückenlehnen-Unterstützung.
 ### Punkt B
 Horizontale Radien bieten Lendenwirbelsäulen-Unterstützung.
 
-![detail10 (2)](https://www.gaoshenghk.com/uploads/detail10-2.jpg)
+![detail10 (2)](/images/GT3/detail10-2.jpg)
 
-![detail10 (3)](https://www.gaoshenghk.com/uploads/detail10-3.jpg)
+![detail10 (3)](/images/GT3/detail10-3.jpg)
 Eine Inschrift im Lendenbereich, die für mehr Komfort im Rückenbereich des Nutzers entwickelt wurde, inspiriert von geometrischen Figuren der Bionik oder 3D-Technologie.
 
 ## Dreieckige Metallrohr-Unterstützung für ergonomische Rückenlehne
 3-Punkt-Dreieck-Metallrohr-Unterstützungsdesign, starke Rückenlehnen-Unterstützung. Im Inneren ist eine 5 mm Eisenplatte verbaut, um die Rückenlehne noch stabiler zu machen.
-![detail10 (4)](https://www.gaoshenghk.com/uploads/detail10-4.jpg)
+![detail10 (4)](/images/GT3/detail10-4.jpg)
 Die GT3A ist nicht nur ein komfortabler Bürostuhl, sondern auch ein Kunstwerk. Sie besticht durch ihre individuelle Performance mit farbenfrohen Sitzkissen und ergonomisch perforierter Rückenlehne.
 
 ## Spezifikationen:
@@ -72,46 +72,46 @@ Die GT3A ist nicht nur ein komfortabler Bürostuhl, sondern auch ein Kunstwerk. 
 8. Rollen: Durchmesser 50 mm Nylonrollen, BIFMA-zugelassen.
 
 ## Funktionen:
-![detail10-(5)](https://www.gaoshenghk.com/uploads/detail10-5.jpg)
+![detail10-(5)](/images/GT3/detail10-5.jpg)
 Sitzhöhe & Höhenverstellung
 
-![detail10-(6)](https://www.gaoshenghk.com/uploads/detail10-6.jpg)
+![detail10-(6)](/images/GT3/detail10-6.jpg)
 Selbstgewichts-Neigungsmechanismus, Neigungs- & Verriegelungsfunktion
 
-![detail10-(11)](https://www.gaoshenghk.com/uploads/detail10-11.jpg)
+![detail10-(11)](/images/GT3/detail10-11.jpg)
 2D-Armlehnen, Auf- und Abbewegung und Verriegelungsposition
 
-![detail10-(9)](https://www.gaoshenghk.com/uploads/detail10-9.jpg)
+![detail10-(9)](/images/GT3/detail10-9.jpg)
 360-Grad-Drehfunktion
 
-![detail10-(10)](https://www.gaoshenghk.com/uploads/detail10-10.jpg)
+![detail10-(10)](/images/GT3/detail10-10.jpg)
 Sanftes Drehen, geräuscharm
 
 ## Einführung in den Selbstgewichts-Neigungsmechanismus:
 Der Selbstgewichts-Neigungsmechanismus ist ein neuer Mechanismus. Der Mechanismus kann sich entsprechend dem Gewicht der Person neigen, was sehr komfortabel ist. Wenn Sie sich zurücklehnen, neigt er sich leicht entsprechend Ihrem Gewicht. Verriegelung in 2 Positionen.
-![detail10 (8)](https://www.gaoshenghk.com/uploads/detail10-8.jpg)
+![detail10 (8)](/images/GT3/detail10-8.jpg)
 
 ## BIFMA-Zertifikat bestanden:
-![detail10 (9)](https://www.gaoshenghk.com/uploads/detail10-91.jpg)
+![detail10 (9)](/images/GT3/detail10-91.jpg)
 
 Farbmuster: Rückenlehne
 Kunststofffarbe: Schwarz oder Weiß PP
-![detail10 (10)](https://www.gaoshenghk.com/uploads/detail10-101.jpg)
+![detail10 (10)](/images/GT3/detail10-101.jpg)
 
 ## Maße:
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.png)
+![detail10 (1)](/images/GT3/detail10-1.png)
 
 ## Projektfotos:
-![detail10 (11)](https://www.gaoshenghk.com/uploads/detail10-111.jpg)
+![detail10 (11)](/images/GT3/detail10-111.jpg)
 
-![detail10 (12)](https://www.gaoshenghk.com/uploads/detail10-12.jpg)
+![detail10 (12)](/images/GT3/detail10-12.jpg)
 
-![detail10 (13)](https://www.gaoshenghk.com/uploads/detail10-13.jpg)
+![detail10 (13)](/images/GT3/detail10-13.jpg)
 
-![detail10 (14)](https://www.gaoshenghk.com/uploads/detail10-14.jpg)
+![detail10 (14)](/images/GT3/detail10-14.jpg)
 
 ## Firmenvorstellung
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT3/detail1_241.jpg)
 
 Gegründet 1988, verfügt das Unternehmen über mehr als 30 Jahre Erfahrung in der Produktion von Bürostühlen und hat sich zu einem der führenden Unternehmen der Branche entwickelt. Wir haben Spritzguss-Werkstatt, Metallwerkstatt, Stuhlverarbeitungswerkstatt, Holzwerkstatt mit starker unabhängiger Entwicklungsfähigkeit. Wir können nach Kundenmustern und spezifischen Zeichnungen forschen und Muster herstellen. Alle unsere Stühle werden gemäß den amerikanischen BIFMA-, Greenguard-, SGS BS EN1335-Standards für Schulschreibtischstühle produziert.
 
@@ -119,7 +119,7 @@ Unser Unternehmen befindet sich im Xi'an Industriegebiet, Xiqiao Stadt, Nanhai B
 
 
 
-<!-- https://www.gaoshenghk.com/uploads/GT3A.mp4
+<!-- /images/GT3/GT3A.mp4
 ### GT3A
 1. Durchbrochene, atmungsaktive, stabile PP-Rückenlehne kombiniert mit 2 großen Eisenrohren im Rücken (Durchmesser: 22 mm), besser geeignet, um das Gewicht des Nutzers zu tragen.
 2. Selbstgewichts-Neigungsmechanismus, kann sich entsprechend dem Gewicht des Nutzers neigen.
@@ -127,7 +127,7 @@ Unser Unternehmen befindet sich im Xi'an Industriegebiet, Xiqiao Stadt, Nanhai B
 4. Rückenlehnenkissen kann nach Bedarf hinzugefügt werden.
 5. BIFMA-Zertifikat bestanden.
 
-https://www.gaoshenghk.com/uploads/GT3D.mp4
+/images/GT3/GT3D.mp4
 ### GT3D
 1. Durchbrochene, atmungsaktive, stabile PP-Rückenlehne kombiniert mit 2 großen Eisenrohren im Rücken (Durchmesser: 22 mm), besser geeignet, um das Gewicht des Nutzers zu tragen.
 2. Höhenverstellbare 2D-Armlehnen.
@@ -135,7 +135,7 @@ https://www.gaoshenghk.com/uploads/GT3D.mp4
 4. Spinnenfußförmige Basis mit großem Durchmesser (25 mm Rundrohr).
 5. Nylonrollen (Durchmesser 50 mm) oder Option ohne Rollen.
 
-https://www.gaoshenghk.com/uploads/GT3B.mp4
+/images/GT3/GT3B.mp4
 ### GT3B
 1. Durchbrochene, atmungsaktive, stabile PP-Rückenlehne kombiniert mit 2 großen Eisenrohren im Rücken (Durchmesser: 22 mm), besser geeignet, um das Gewicht des Nutzers zu tragen.
 2. Höhenverstellbare 2D-Armlehnen.

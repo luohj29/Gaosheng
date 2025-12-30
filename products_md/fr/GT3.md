@@ -18,7 +18,7 @@ variants:
   - "/images/GT3/GT3A黑无扶手.webp"
   - "/images/GT3/GT3A All black.webp"
   - "/images/GT3/GT3A office chair project show.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT3A.mp4"
+videoUrl: "/videos/GT3.mp4"
 category: "Général/Bureau"
 features:
   - "Certificat : BIFMA"
@@ -26,7 +26,7 @@ features:
 ---
 ## Fauteuil de bureau ergonomique avec inclinaison et blocage 2D des accoudoirs
 
-[![Image principale du fauteuil de bureau ergonomique avec inclinaison et blocage 2D des accoudoirs](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
+![Image principale du fauteuil de bureau ergonomique avec inclinaison et blocage 2D des accoudoirs](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)(/images/GT3/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
 
 
 
@@ -39,7 +39,7 @@ Application : Environnement de bureau, salle de réception d'hôtel, chambre d'h
 Avantage : Fauteuil de bureau ergonomique.
 
 ## Concept de design :
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.jpg)
+![detail10 (1)](/images/GT3/detail10-1.jpg)
 
 ## Dossier en plastique 3D
 - Moulage intégré.
@@ -51,14 +51,14 @@ Les radians verticaux assurent le soutien du dossier.
 ### Point B
 Les radians horizontaux assurent le soutien lombaire.
 
-![detail10 (2)](https://www.gaoshenghk.com/uploads/detail10-2.jpg)
+![detail10 (2)](/images/GT3/detail10-2.jpg)
 
-![detail10 (3)](https://www.gaoshenghk.com/uploads/detail10-3.jpg)
+![detail10 (3)](/images/GT3/detail10-3.jpg)
 Une inscription dans la zone lombaire conçue pour un plus grand confort du dos de l'utilisateur, inspirée par les figures géométriques de la bionique ou de la technologie 3D.
 
 ## Soutien ergonomique du dossier par tube métallique triangulaire
 Conception de soutien à 3 points par tube métallique triangulaire, offrant un soutien dorsal solide. L'intérieur est équipé d'une plaque de fer de 5mm pour renforcer le dossier.
-![detail10 (4)](https://www.gaoshenghk.com/uploads/detail10-4.jpg)
+![detail10 (4)](/images/GT3/detail10-4.jpg)
 Le GT3A n'est pas seulement un fauteuil de bureau confortable, c'est aussi une œuvre d'art. Il exprime sa personnalité grâce à son coussin de siège coloré et son dossier perforé ergonomique.
 
 ## Spécifications :
@@ -72,46 +72,46 @@ Le GT3A n'est pas seulement un fauteuil de bureau confortable, c'est aussi une �
 8. Roulettes : Roulettes nylon diamètre 50mm, approuvées BIFMA.
 
 ## Fonctions :
-![detail10-(5)](https://www.gaoshenghk.com/uploads/detail10-5.jpg)
+![detail10-(5)](/images/GT3/detail10-5.jpg)
 Hauteur du siège et réglage en hauteur.
 
-![detail10-(6)](https://www.gaoshenghk.com/uploads/detail10-6.jpg)
+![detail10-(6)](/images/GT3/detail10-6.jpg)
 Mécanisme d'inclinaison par poids corporel, fonction d'inclinaison et de verrouillage.
 
-![detail10-(11)](https://www.gaoshenghk.com/uploads/detail10-11.jpg)
+![detail10-(11)](/images/GT3/detail10-11.jpg)
 Accoudoirs 2D, fonction de réglage haut/bas et de verrouillage en position.
 
-![detail10-(9)](https://www.gaoshenghk.com/uploads/detail10-9.jpg)
+![detail10-(9)](/images/GT3/detail10-9.jpg)
 Fonction pivotante à 360 degrés.
 
-![detail10-(10)](https://www.gaoshenghk.com/uploads/detail10-10.jpg)
+![detail10-(10)](/images/GT3/detail10-10.jpg)
 Pivotement fluide et silencieux.
 
 ## Présentation du mécanisme d'inclinaison par poids corporel :
 Le mécanisme d'inclinaison par poids corporel est un nouveau mécanisme. Il peut s'incliner en fonction du poids de la personne, ce qui est très confortable. Lorsque vous vous penchez en arrière, il s'incline très facilement selon votre poids. Verrouillage en 2 positions.
-![detail10 (8)](https://www.gaoshenghk.com/uploads/detail10-8.jpg)
+![detail10 (8)](/images/GT3/detail10-8.jpg)
 
 ## Certificat BIFMA validé :
-![detail10 (9)](https://www.gaoshenghk.com/uploads/detail10-91.jpg)
+![detail10 (9)](/images/GT3/detail10-91.jpg)
 
 Nuancier couleur : Dossier
 Couleur plastique : PP Noir ou Blanc
-![detail10 (10)](https://www.gaoshenghk.com/uploads/detail10-101.jpg)
+![detail10 (10)](/images/GT3/detail10-101.jpg)
 
 ## Dimensions :
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.png)
+![detail10 (1)](/images/GT3/detail10-1.png)
 
 ## Photos de projet :
-![detail10 (11)](https://www.gaoshenghk.com/uploads/detail10-111.jpg)
+![detail10 (11)](/images/GT3/detail10-111.jpg)
 
-![detail10 (12)](https://www.gaoshenghk.com/uploads/detail10-12.jpg)
+![detail10 (12)](/images/GT3/detail10-12.jpg)
 
-![detail10 (13)](https://www.gaoshenghk.com/uploads/detail10-13.jpg)
+![detail10 (13)](/images/GT3/detail10-13.jpg)
 
-![detail10 (14)](https://www.gaoshenghk.com/uploads/detail10-14.jpg)
+![detail10 (14)](/images/GT3/detail10-14.jpg)
 
 ## Présentation de l'entreprise
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT3/detail1_241.jpg)
 
 Fondée en 1988, l'entreprise possède plus de 30 ans d'expérience dans la production de fauteuils de bureau et s'est développée pour devenir l'une des entreprises leaders du secteur. Nous disposons d'un atelier de moulage par injection, d'un atelier de quincaillerie, d'un atelier d'usinage de chaises, d'un atelier de menuiserie, avec une forte capacité de développement indépendant. Nous pouvons étudier et réaliser des échantillons selon les spécimens et les plans spécifiques des clients. Toutes nos chaises sont produites conformément aux normes américaines BIFMA, Greenguard, SGS BS EN1335 pour les chaises de bureau scolaire.
 
@@ -119,7 +119,7 @@ Notre société est située dans la zone industrielle de Xi'an, ville de Xiqiao,
 
 
 
-<!-- https://www.gaoshenghk.com/uploads/GT3A.mp4
+<!-- /images/GT3/GT3A.mp4
 ### GT3A
 1. Dossier PP solide et respirant ajouré combiné à 2 gros tubes de fer à l'arrière (Diamètre : 22mm), mieux adapté pour supporter le poids de l'utilisateur.
 2. Mécanisme d'inclinaison par poids corporel, peut s'incliner selon le poids de l'utilisateur.
@@ -127,7 +127,7 @@ Notre société est située dans la zone industrielle de Xi'an, ville de Xiqiao,
 4. Possibilité d'ajouter un coussin de dossier selon vos besoins.
 5. Certificat BIFMA validé.
 
-https://www.gaoshenghk.com/uploads/GT3D.mp4
+/images/GT3/GT3D.mp4
 ### GT3D
 1. Dossier PP solide et respirant ajouré combiné à 2 gros tubes de fer à l'arrière (Diamètre : 22mm), mieux adapté pour supporter le poids de l'utilisateur.
 2. Accoudoirs 2D réglables en hauteur.
@@ -135,7 +135,7 @@ https://www.gaoshenghk.com/uploads/GT3D.mp4
 4. Base en forme de pied d'araignée avec gros tube rond de 25mm de diamètre.
 5. Options de roulettes nylon (Diamètre 50mm) ou sans roulettes.
 
-https://www.gaoshenghk.com/uploads/GT3B.mp4
+/images/GT3/GT3B.mp4
 ### GT3B
 1. Dossier PP solide et respirant ajouré combiné à 2 gros tubes de fer à l'arrière (Diamètre : 22mm), mieux adapté pour supporter le poids de l'utilisateur.
 2. Accoudoirs 2D réglables en hauteur.

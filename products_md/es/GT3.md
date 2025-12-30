@@ -18,7 +18,7 @@ variants:
   - "/images/GT3/GT3A黑无扶手.webp"
   - "/images/GT3/GT3A All black.webp"
   - "/images/GT3/GT3A office chair project show.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT3A.mp4"
+videoUrl: "/videos/GT3.mp4"
 category: "General/Oficina"
 features:
   - "Certificado : BIFMA"
@@ -26,7 +26,7 @@ features:
 ---
 ## Silla de oficina ergonómica con inclinación y bloqueo 2D en reposabrazos
 
-[![Imagen destacada de la silla de oficina ergonómica con inclinación y bloqueo 2D en reposabrazos](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
+![Imagen destacada de la silla de oficina ergonómica con inclinación y bloqueo 2D en reposabrazos](https://www.gaoshenghk.com/uploads/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)(/images/GT3/Ergonomic-2D-armrest-tilt-and-lock-office-chair-task-chair-1.jpg)
 
 
 
@@ -39,7 +39,7 @@ Aplicación: Entorno de oficina, sala de recepción de hotel, habitación de hu�
 Ventaja: Silla de oficina ergonómica.
 
 ## Concepto de diseño:
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.jpg)
+![detail10 (1)](/images/GT3/detail10-1.jpg)
 
 ## Respaldo de plástico 3D
 - Moldeado integrado.
@@ -51,14 +51,14 @@ Los radianes verticales proporcionan soporte al respaldo.
 ### Punto B
 Los radianes horizontales proporcionan soporte lumbar.
 
-![detail10 (2)](https://www.gaoshenghk.com/uploads/detail10-2.jpg)
+![detail10 (2)](/images/GT3/detail10-2.jpg)
 
-![detail10 (3)](https://www.gaoshenghk.com/uploads/detail10-3.jpg)
+![detail10 (3)](/images/GT3/detail10-3.jpg)
 Una inscripción en la zona lumbar diseñada para mayor comodidad en la espalda del usuario, inspirada en figuras geométricas de la biónica o tecnología 3D.
 
 ## Respaldo Ergonómico con Soporte de Tubo Metálico Triangular
 Diseño de soporte de tubo metálico triangular de 3 puntos, ofreciendo un soporte de respaldo fuerte. En el interior se coloca una placa de hierro de 5mm para hacer el respaldo más resistente.
-![detail10 (4)](https://www.gaoshenghk.com/uploads/detail10-4.jpg)
+![detail10 (4)](/images/GT3/detail10-4.jpg)
 La GT3A no es solo una cómoda silla de oficina, sino también una obra de arte. Su personalidad se manifiesta con un cojín del asiento de colores y un respaldo perforado ergonómicamente.
 
 ## Especificaciones:
@@ -72,46 +72,46 @@ La GT3A no es solo una cómoda silla de oficina, sino también una obra de arte.
 8. Ruedas: Ruedas de nailon de diámetro 50mm, aprobadas por BIFMA.
 
 ## Funciones:
-![detail10-(5)](https://www.gaoshenghk.com/uploads/detail10-5.jpg)
+![detail10-(5)](/images/GT3/detail10-5.jpg)
 Altura del asiento y ajuste de altura.
 
-![detail10-(6)](https://www.gaoshenghk.com/uploads/detail10-6.jpg)
+![detail10-(6)](/images/GT3/detail10-6.jpg)
 Mecanismo de inclinación por peso propio, función de inclinación y bloqueo.
 
-![detail10-(11)](https://www.gaoshenghk.com/uploads/detail10-11.jpg)
+![detail10-(11)](/images/GT3/detail10-11.jpg)
 Reposabrazos 2D, función de subir/bajar y posición de bloqueo.
 
-![detail10-(9)](https://www.gaoshenghk.com/uploads/detail10-9.jpg)
+![detail10-(9)](/images/GT3/detail10-9.jpg)
 Función de giro de 360 grados.
 
-![detail10-(10)](https://www.gaoshenghk.com/uploads/detail10-10.jpg)
+![detail10-(10)](/images/GT3/detail10-10.jpg)
 Giro suave y silencioso.
 
 ## Introducción al Mecanismo de Inclinación por Peso Propio:
 El mecanismo de inclinación por peso propio es un nuevo mecanismo. Este mecanismo puede inclinarse según el peso de la persona, es muy cómodo; cuando te recuestas, puede inclinarse fácilmente según tu peso. Bloqueo en 2 posiciones.
-![detail10 (8)](https://www.gaoshenghk.com/uploads/detail10-8.jpg)
+![detail10 (8)](/images/GT3/detail10-8.jpg)
 
 ## Pasa la Certificación BIFMA:
-![detail10 (9)](https://www.gaoshenghk.com/uploads/detail10-91.jpg)
+![detail10 (9)](/images/GT3/detail10-91.jpg)
 
 Muestrario de colores: Respaldo
 Color del plástico: PP Negro o Blanco
-![detail10 (10)](https://www.gaoshenghk.com/uploads/detail10-101.jpg)
+![detail10 (10)](/images/GT3/detail10-101.jpg)
 
 ## Dimensiones:
-![detail10 (1)](https://www.gaoshenghk.com/uploads/detail10-1.png)
+![detail10 (1)](/images/GT3/detail10-1.png)
 
 ## Fotos del proyecto:
-![detail10 (11)](https://www.gaoshenghk.com/uploads/detail10-111.jpg)
+![detail10 (11)](/images/GT3/detail10-111.jpg)
 
-![detail10 (12)](https://www.gaoshenghk.com/uploads/detail10-12.jpg)
+![detail10 (12)](/images/GT3/detail10-12.jpg)
 
-![detail10 (13)](https://www.gaoshenghk.com/uploads/detail10-13.jpg)
+![detail10 (13)](/images/GT3/detail10-13.jpg)
 
-![detail10 (14)](https://www.gaoshenghk.com/uploads/detail10-14.jpg)
+![detail10 (14)](/images/GT3/detail10-14.jpg)
 
 ## Introducción de la Empresa
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT3/detail1_241.jpg)
 
 Fundada en 1988, la empresa cuenta con más de 30 años de experiencia en la producción de sillas de oficina y se ha desarrollado hasta convertirse en una de las empresas líderes en la industria. Contamos con taller de moldeo por inyección, taller de metalistería, taller de procesamiento de sillas, taller de madera, con una fuerte capacidad de desarrollo independiente. Podemos investigar y fabricar muestras según las muestras de los clientes y planos específicos. Todas nuestras sillas se producen de acuerdo con los estándares estadounidenses BIFMA, Greenguard, SGS BS EN1335 para sillas de escritorio escolar.
 
@@ -119,7 +119,7 @@ Nuestra empresa se encuentra en la Zona Industrial de Xi'an, pueblo de Xiqiao, d
 
 
 
-<!-- https://www.gaoshenghk.com/uploads/GT3A.mp4
+<!-- /images/GT3/GT3A.mp4
 ### GT3A
 1. Respaldo de PP fuerte y transpirable con perforaciones, combinado con 2 tubos de hierro de gran diámetro en la parte posterior (Diámetro:22mm), mejor para soportar el peso del usuario.
 2. Mecanismo de inclinación por peso propio, puede inclinarse según el peso del usuario.
@@ -127,7 +127,7 @@ Nuestra empresa se encuentra en la Zona Industrial de Xi'an, pueblo de Xiqiao, d
 4. Se puede añadir cojín para el respaldo según necesidad.
 5. Pasa la certificación BIFMA.
 
-https://www.gaoshenghk.com/uploads/GT3D.mp4
+/images/GT3/GT3D.mp4
 ### GT3D
 1. Respaldo de PP fuerte y transpirable con perforaciones, combinado con 2 tubos de hierro de gran diámetro en la parte posterior (Diámetro:22mm), mejor para soportar el peso del usuario.
 2. Reposabrazos 2D ajustables en altura.
@@ -135,7 +135,7 @@ https://www.gaoshenghk.com/uploads/GT3D.mp4
 4. Base con pie de araña de tubo redondo de gran diámetro 25mm.
 5. Opciones de ruedas de nailon (Diámetro 50mm) o sin ruedas.
 
-https://www.gaoshenghk.com/uploads/GT3B.mp4
+/images/GT3/GT3B.mp4
 ### GT3B
 1. Respaldo de PP fuerte y transpirable con perforaciones, combinado con 2 tubos de hierro de gran diámetro en la parte posterior (Diámetro:22mm), mejor para soportar el peso del usuario.
 2. Reposabrazos 2D ajustables en altura.

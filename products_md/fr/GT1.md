@@ -18,7 +18,7 @@ variants:
   - "/images/GT1/GT1-WTY-C front.webp"
   - "/images/GT1/GT1-WTY-R.webp"
   - "/images/GT1/GT1-WTY-R front.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT1.mp4"
+videoUrl: "/videos/GT1.mp4"
 category: "Général/Bureau"
 features:
   - "Certification : BIFMA"
@@ -27,7 +27,7 @@ features:
 
 ## Fauteuil de bureau ergonomique haut dossier design original
 
-[![Image principale du fauteuil de bureau ergonomique haut dossier design original](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)
+![Original design ergonomic high back office chair Featured Image](/images/GT1/Original-design-ergonomic-high-back-office-chair-1.jpg)
 
 
 
@@ -36,24 +36,24 @@ features:
 
 ![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
 
-![detail8 (1)](https://www.gaoshenghk.com/uploads/detail8-11.jpg)
+![detail8 (1)](/images/GT1/detail8-11.jpg)
 ### Série GT : Design Original
-![detail8 (2)](https://www.gaoshenghk.com/uploads/detail8-21.jpg)
+![detail8 (2)](/images/GT1/detail8-21.jpg)
 ### GAOSHENG : Fabricant avec plus de 30 ans d'expérience
-![detail8 (3)](https://www.gaoshenghk.com/uploads/detail8-31.jpg)
+![detail8 (3)](/images/GT1/detail8-31.jpg)
 ### TOYO : Fabricant avec plus de 60 ans d'expérience
-![detail8 (4)](https://www.gaoshenghk.com/uploads/detail8-4.jpg)
+![detail8 (4)](/images/GT1/detail8-4.jpg)
 ## Série GT1 : propose des modèles dossier moyen et en tissu.
 Le dossier permet une relaxation complète, à l'image d'une plante qui respire dans la nature, soulageant la fatigue liée à la position assise prolongée. GT est le fauteuil qui travaille pour vous. Il allie fonctionnalité et design en un seul produit. Disponible avec un cadre noir ou blanc, il apporte une touche d'élégance et d'exclusivité, rapprochant l'utilisateur de la nature.
-![detail8 (5)](https://www.gaoshenghk.com/uploads/detail8-5.jpg)
+![detail8 (5)](/images/GT1/detail8-5.jpg)
 ### Le coussin respirant monobloc 3D favorise le confort lors de longues périodes assises.
-![detail8 (6)](https://www.gaoshenghk.com/uploads/detail8-6.jpg)
+![detail8 (6)](/images/GT1/detail8-6.jpg)
 ## Fonctions de la Série GT
-![detail8 (7)](https://www.gaoshenghk.com/uploads/detail8-7.jpg)
+![detail8 (7)](/images/GT1/detail8-7.jpg)
 
-![detail8 (8)](https://www.gaoshenghk.com/uploads/detail8-8.jpg)
+![detail8 (8)](/images/GT1/detail8-8.jpg)
 
-![detail8 (9)](https://www.gaoshenghk.com/uploads/detail8-9.jpg)
+![detail8 (9)](/images/GT1/detail8-9.jpg)
 
 ## Spécifications :
 +   CERTIFICATION BIFMA :
@@ -67,7 +67,7 @@ Le dossier permet une relaxation complète, à l'image d'une plante qui respire 
 +   8, Colonne de gaz : KGS 100\*80#, durée de vie 120 000 cycles montée/descente, conforme SGS ;
 +   9, Roulettes : Roulettes en PU (diamètre : 60mm), résistance testée à 50 000 cycles et test de fatigue à 50 000 cycles, conforme BIFMA ;
 
-![detail8 (10)](https://www.gaoshenghk.com/uploads/detail8-10.jpg)
+![detail8 (10)](/images/GT1/detail8-10.jpg)
 ### A-Vous pouvez utiliser le levier en bas à droite pour régler la hauteur de l'assise.
 
 ### B-Vous pouvez utiliser le levier en bas à gauche pour permettre au dossier de suivre librement les mouvements de votre corps.
@@ -103,23 +103,23 @@ Coussin d'accoudoir en mousse PU intégrale de couleur noire standard, moulé su
 
 ## Certification BIFMA :
 ### La structure a passé les tests professionnels de la norme de bureau BIFMA
-![detail8 (11)](https://www.gaoshenghk.com/uploads/detail8-111.jpg)
+![detail8 (11)](/images/GT1/detail8-111.jpg)
 
-![detail8 (12)](https://www.gaoshenghk.com/uploads/detail8-12.jpg)
+![detail8 (12)](/images/GT1/detail8-12.jpg)
 
-![detail8 (13)](https://www.gaoshenghk.com/uploads/detail8-13.jpg)
+![detail8 (13)](/images/GT1/detail8-13.jpg)
 
 ## Options de Couleur
-![detail8 (14)](https://www.gaoshenghk.com/uploads/detail8-14.jpg)
+![detail8 (14)](/images/GT1/detail8-14.jpg)
 
-![detail8 (15)](https://www.gaoshenghk.com/uploads/detail8-15.jpg)
+![detail8 (15)](/images/GT1/detail8-15.jpg)
 
-![detail8 (16)](https://www.gaoshenghk.com/uploads/detail8-16.jpg)
+![detail8 (16)](/images/GT1/detail8-16.jpg)
 
 ## Emballage :
-![detail8 (17)](https://www.gaoshenghk.com/uploads/detail8-17.jpg)
+![detail8 (17)](/images/GT1/detail8-17.jpg)
 
-![detail8 (18)](https://www.gaoshenghk.com/uploads/detail8-18.jpg)
+![detail8 (18)](/images/GT1/detail8-18.jpg)
 Emballage utilisé : Carton standard export K5=K5 5 couches (250 livres), ou emballage spécial sur demande accepté.
 Dimensions carton : 32.68*27.17*19.69 pouces (1 pièce/ctn)
 CBM : 0.29
@@ -127,20 +127,20 @@ Poids brut : 26KGS
 
 ## Photos de projets :
 ### GT1 peut être utilisé dans les postes de travail de bureau, les hôpitaux, les écoles.
-![detail8 (19)](https://www.gaoshenghk.com/uploads/detail8-19.jpg)
+![detail8 (19)](/images/GT1/detail8-19.jpg)
 
-![detail8 (20)](https://www.gaoshenghk.com/uploads/detail8-20.jpg)
+![detail8 (20)](/images/GT1/detail8-20.jpg)
 
-![detail8 (21)](https://www.gaoshenghk.com/uploads/detail8-211.jpg)
+![detail8 (21)](/images/GT1/detail8-211.jpg)
 
-![detail8 (22)](https://www.gaoshenghk.com/uploads/detail8-22.jpg)
+![detail8 (22)](/images/GT1/detail8-22.jpg)
 
-![detail8 (23)](https://www.gaoshenghk.com/uploads/detail8-23.jpg)
+![detail8 (23)](/images/GT1/detail8-23.jpg)
 
-![detail8 (24)](https://www.gaoshenghk.com/uploads/detail8-24.jpg)
+![detail8 (24)](/images/GT1/detail8-24.jpg)
 
 ## Présentation de l'Entreprise
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT1/detail1_241.jpg)
 
 Fondée en 1988, l'entreprise possède plus de 30 ans d'expérience dans la production de fauteuils de bureau et s'est développée pour devenir l'une des entreprises leaders du secteur. Nous disposons d'un atelier de moulage par injection, d'un atelier de quincaillerie, d'un atelier d'usinage de chaises, d'un atelier de menuiserie, avec une forte capacité de développement indépendant. Nous pouvons étudier et réaliser des échantillons selon les spécimens et les plans spécifiques des clients. Toutes nos chaises sont produites conformément aux normes américaines BIFMA, Greenguard, SGS BS EN1335 pour les chaises de bureau scolaire.
 

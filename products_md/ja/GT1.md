@@ -18,7 +18,7 @@ variants:
   - "/images/GT1/GT1-WTY-C front.webp"
   - "/images/GT1/GT1-WTY-R.webp"
   - "/images/GT1/GT1-WTY-R front.webp"
-videoUrl: "https://www.gaoshenghk.com/uploads/GT1.mp4"
+videoUrl: "/videos/GT1.mp4"
 category: "一般/ビジネス"
 features:
   - "認証 : BIFMA"
@@ -27,8 +27,7 @@ features:
 
 ## オリジナルデザイン 人間工学に基づいたハイバックオフィスチェア
 
-[![オリジナルデザイン 人間工学に基づいたハイバックオフィスチェア メイン画像](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)](https://www.gaoshenghk.com/uploads/Original-design-ergonomic-high-back-office-chair-1.jpg)
-
+![Original design ergonomic high back office chair Featured Image](/images/GT1/Original-design-ergonomic-high-back-office-chair-1.jpg)
 
 
 ## 製品詳細
@@ -36,24 +35,24 @@ features:
 
 ![](https://cdnus.globalso.com/gaoshenghk/GS-104.jpg)
 
-![detail8 (1)](https://www.gaoshenghk.com/uploads/detail8-11.jpg)
+![detail8 (1)](/images/GT1/detail8-11.jpg)
 ### GTシリーズ: オリジナルデザイン
-![detail8 (2)](https://www.gaoshenghk.com/uploads/detail8-21.jpg)
+![detail8 (2)](/images/GT1/detail8-21.jpg)
 ### 高昇: 30年以上の経験を持つメーカー
-![detail8 (3)](https://www.gaoshenghk.com/uploads/detail8-31.jpg)
+![detail8 (3)](/images/GT1/detail8-31.jpg)
 ### TOYO: 60年以上の経験を持つメーカー
-![detail8 (4)](https://www.gaoshenghk.com/uploads/detail8-4.jpg)
+![detail8 (4)](/images/GT1/detail8-4.jpg)
 ## GT1シリーズ: ミドルバックタイプとファブリックタイプがあります。
 背もたれは十分にリラックスさせ、まるで自然の中で植物が呼吸するかのように、長時間座ることによる人体の疲労を和らげます。GTはあなたのために働くチェアです。機能とデザインを一つに融合させています。ブラックまたはホワイトのフレームから選択可能で、優雅さと独自性を感じさせ、ユーザーと自然をより近づけます。
-![detail8 (5)](https://www.gaoshenghk.com/uploads/detail8-5.jpg)
+![detail8 (5)](/images/GT1/detail8-5.jpg)
 ### 3D一体型通気性クッションが長時間の着座をサポート。
-![detail8 (6)](https://www.gaoshenghk.com/uploads/detail8-6.jpg)
+![detail8 (6)](/images/GT1/detail8-6.jpg)
 ## GTシリーズの機能
-![detail8 (7)](https://www.gaoshenghk.com/uploads/detail8-7.jpg)
+![detail8 (7)](/images/GT1/detail8-7.jpg)
 
-![detail8 (8)](https://www.gaoshenghk.com/uploads/detail8-8.jpg)
+![detail8 (8)](/images/GT1/detail8-8.jpg)
 
-![detail8 (9)](https://www.gaoshenghk.com/uploads/detail8-9.jpg)
+![detail8 (9)](/images/GT1/detail8-9.jpg)
 
 ## 仕様:
 +   BIFMA認証取得済み:
@@ -67,7 +66,7 @@ features:
 +   8, ガスリフト: KGS 100\*80# ガスリフト、寿命は上下120,000回、SGS承認;
 +   9, キャスター: PUキャスター（直径:60mm）、50,000回の耐性試験と50,000回の疲労試験合格、BIFMA承認;
 
-![detail8 (10)](https://www.gaoshenghk.com/uploads/detail8-10.jpg)
+![detail8 (10)](/images/GT1/detail8-10.jpg)
 ### A-右下のレバーを使用して座面の高さを調整できます。
 
 ### B-左下のレバーを使用して、リクライニングを体の動きに合わせて自由に動くように設定できます。
@@ -102,23 +101,23 @@ DGTはクラシックとエレガントな特徴を統合し、繁栄、完璧�
 
 ## BIFMA認証取得済み:
 ### 構造はプロフェッショナルオフィス規格BIFMAテストを通過
-![detail8 (11)](https://www.gaoshenghk.com/uploads/detail8-111.jpg)
+![detail8 (11)](/images/GT1/detail8-111.jpg)
 
-![detail8 (12)](https://www.gaoshenghk.com/uploads/detail8-12.jpg)
+![detail8 (12)](/images/GT1/detail8-12.jpg)
 
-![detail8 (13)](https://www.gaoshenghk.com/uploads/detail8-13.jpg)
+![detail8 (13)](/images/GT1/detail8-13.jpg)
 
 ## カラーオプション
-![detail8 (14)](https://www.gaoshenghk.com/uploads/detail8-14.jpg)
+![detail8 (14)](/images/GT1/detail8-14.jpg)
 
-![detail8 (15)](https://www.gaoshenghk.com/uploads/detail8-15.jpg)
+![detail8 (15)](/images/GT1/detail8-15.jpg)
 
-![detail8 (16)](https://www.gaoshenghk.com/uploads/detail8-16.jpg)
+![detail8 (16)](/images/GT1/detail8-16.jpg)
 
 ## 梱包:
-![detail8 (17)](https://www.gaoshenghk.com/uploads/detail8-17.jpg)
+![detail8 (17)](/images/GT1/detail8-17.jpg)
 
-![detail8 (18)](https://www.gaoshenghk.com/uploads/detail8-18.jpg)
+![detail8 (18)](/images/GT1/detail8-18.jpg)
 梱包: 5層K5=K5輸出標準（250ポンド）段ボール、または特別な梱包要求にも対応可。
 段ボールサイズ: 32.68*27.17*19.69インチ (1個/箱)
 CBM: 0.29
@@ -126,20 +125,20 @@ CBM: 0.29
 
 ## プロジェクト写真:
 ### GT1はオフィスワークステーション、病院、学校で使用できます。
-![detail8 (19)](https://www.gaoshenghk.com/uploads/detail8-19.jpg)
+![detail8 (19)](/images/GT1/detail8-19.jpg)
 
-![detail8 (20)](https://www.gaoshenghk.com/uploads/detail8-20.jpg)
+![detail8 (20)](/images/GT1/detail8-20.jpg)
 
-![detail8 (21)](https://www.gaoshenghk.com/uploads/detail8-211.jpg)
+![detail8 (21)](/images/GT1/detail8-211.jpg)
 
-![detail8 (22)](https://www.gaoshenghk.com/uploads/detail8-22.jpg)
+![detail8 (22)](/images/GT1/detail8-22.jpg)
 
-![detail8 (23)](https://www.gaoshenghk.com/uploads/detail8-23.jpg)
+![detail8 (23)](/images/GT1/detail8-23.jpg)
 
-![detail8 (24)](https://www.gaoshenghk.com/uploads/detail8-24.jpg)
+![detail8 (24)](/images/GT1/detail8-24.jpg)
 
 ## 会社紹介
-![detail1_24](https://www.gaoshenghk.com/uploads/detail1_241.jpg)
+![detail1_24](/images/GT1/detail1_241.jpg)
 
 1988年に設立され、30年以上のオフィスチェア製造経験を持ち、業界をリードする企業の一つに成長しました。射出成形工場、金型工場、椅子加工工場、木工工場を有し、強力な独自開発能力を備えており、お客様のサンプルや特定の図面に基づいて研究開発とサンプル製作が可能です。当社のすべての椅子は、米国BIFMA、Greenguard、SGS BS EN1335学校用書き込みボード椅子規格に準拠して製造されています。
 

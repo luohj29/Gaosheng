@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1e1264d0a09c0089.css","style"]
+:HL["/_next/static/chunks/53d8167a38d8924d.css","style"]
 :HL["/_next/static/chunks/98b5b607de1b5c0e.css","style"]
 :HL["/images/GT1/Original-design-ergonomic-high-back-office-chair-1.jpg","image"]
 :HL["/images/GT1/GS-104.jpg","image"]
@@ -28,4 +28,4 @@
 :HL["/images/GT1/detail8-24.jpg","image"]
 :HL["/images/GT1/detail1_241.jpg","image"]
 :HL["/icon/logo.webp","image"]
-0:{"buildId":"N5SFfeReYKaJgPPhZWTBF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"locale","paramType":"d","paramKey":"zh","hasRuntimePrefetch":false,"slots":{"children":{"name":"product","paramType":null,"paramKey":"product","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"GT1","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"eOdx0THI-TFbJZ3l4-uSZ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"locale","paramType":"d","paramKey":"zh","hasRuntimePrefetch":false,"slots":{"children":{"name":"product","paramType":null,"paramKey":"product","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"GT1","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
